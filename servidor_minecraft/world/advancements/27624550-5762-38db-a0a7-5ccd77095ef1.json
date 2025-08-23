@@ -2598,6 +2598,12 @@
     },
     "done": true
   },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2025-08-23 20:29:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/light_blue_harness": {
     "criteria": {
       "has_dried_ghast": "2025-08-23 20:01:44 +0000"

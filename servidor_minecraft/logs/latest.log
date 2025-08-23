@@ -31,3 +31,5 @@
 [19:46:06] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=-624, y=61, z=91}
 [19:50:18] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-101, y=74, z=-95} jb{x=-101, y=75, z=-94}
 [20:19:03] [Server thread/INFO]: VenaticWinner67 has made the advancement [Local Brewery]
+[20:26:14] [Server thread/INFO]: Villager cuf['Librarian'/5636, l='ServerLevel[world]', x=-842.70, y=78.00, z=-993.50] died, message: 'Librarian was slain by | La zorrita |'
+[20:29:55] [Server thread/INFO]: VenaticWinner67 has reached the goal [Zombie Doctor]
