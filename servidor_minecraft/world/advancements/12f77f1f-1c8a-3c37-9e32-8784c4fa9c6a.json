@@ -282,6 +282,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-08-18 14:56:05 +0000",
+      "minecraft:blaze": "2025-08-23 18:24:56 +0000",
       "minecraft:cave_spider": "2025-08-17 05:18:49 +0000",
       "minecraft:skeleton": "2025-08-16 02:51:24 +0000",
       "minecraft:piglin": "2025-08-17 17:28:32 +0000",
@@ -289,6 +290,7 @@
       "minecraft:zombie": "2025-08-16 03:17:43 +0000",
       "minecraft:creeper": "2025-08-17 03:32:16 +0000",
       "minecraft:zombie_villager": "2025-08-17 05:27:29 +0000",
+      "minecraft:ghast": "2025-08-23 18:24:13 +0000",
       "minecraft:slime": "2025-08-17 05:41:17 +0000",
       "minecraft:hoglin": "2025-08-17 17:28:43 +0000"
     },
@@ -2629,6 +2631,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-08-23 18:25:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2025-08-23 18:11:54 +0000"
@@ -2641,9 +2649,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-08-23 18:26:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-08-23 18:07:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-08-23 18:25:16 +0000"
     },
     "done": true
   },
@@ -2665,9 +2685,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-08-23 18:26:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-08-23 18:24:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2025-08-23 18:07:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-08-23 18:25:16 +0000"
     },
     "done": true
   },

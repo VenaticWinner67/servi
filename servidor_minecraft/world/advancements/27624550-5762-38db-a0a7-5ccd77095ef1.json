@@ -427,6 +427,7 @@
       "minecraft:skeleton": "2025-08-16 02:54:56 +0000",
       "minecraft:phantom": "2025-08-17 05:23:43 +0000",
       "minecraft:witch": "2025-08-17 19:36:35 +0000",
+      "minecraft:wither_skeleton": "2025-08-23 18:26:08 +0000",
       "minecraft:hoglin": "2025-08-23 17:53:18 +0000",
       "minecraft:cave_spider": "2025-08-17 20:05:32 +0000",
       "minecraft:piglin": "2025-08-23 17:49:24 +0000",
@@ -2403,6 +2404,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-08-23 18:25:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_slab": {
     "criteria": {
       "has_nether_bricks": "2025-08-23 18:15:20 +0000"
@@ -2412,6 +2419,12 @@
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-08-23 17:55:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-08-23 18:24:58 +0000"
     },
     "done": true
   },
@@ -2445,6 +2458,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-08-23 18:25:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
       "has_nether_bricks": "2025-08-23 18:15:20 +0000"
@@ -2460,6 +2479,12 @@
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2025-08-23 17:54:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-08-23 18:24:58 +0000"
     },
     "done": true
   },
