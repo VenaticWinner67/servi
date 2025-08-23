@@ -985,7 +985,9 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2025-08-16 03:26:51 +0000"
+      "minecraft:crimson_forest": "2025-08-16 03:26:51 +0000",
+      "minecraft:nether_wastes": "2025-08-23 18:01:20 +0000",
+      "minecraft:basalt_deltas": "2025-08-23 18:02:41 +0000"
     },
     "done": false
   },
@@ -2346,6 +2348,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-08-23 18:02:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2025-08-23 17:54:35 +0000"
@@ -2376,6 +2384,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-08-23 18:02:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2025-08-23 17:54:35 +0000"
@@ -2385,6 +2399,12 @@
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2025-08-23 17:54:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-08-23 18:02:41 +0000"
     },
     "done": true
   },
