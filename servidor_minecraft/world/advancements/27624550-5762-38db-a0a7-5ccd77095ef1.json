@@ -2568,6 +2568,12 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-08-23 20:19:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/yellow_harness": {
     "criteria": {
       "has_dried_ghast": "2025-08-23 20:01:44 +0000"
