@@ -428,6 +428,7 @@
       "minecraft:phantom": "2025-08-17 05:23:43 +0000",
       "minecraft:witch": "2025-08-17 19:36:35 +0000",
       "minecraft:wither_skeleton": "2025-08-23 18:26:08 +0000",
+      "minecraft:ghast": "2025-08-23 19:00:34 +0000",
       "minecraft:hoglin": "2025-08-23 17:53:18 +0000",
       "minecraft:cave_spider": "2025-08-17 20:05:32 +0000",
       "minecraft:piglin": "2025-08-23 17:49:24 +0000",
@@ -2365,6 +2366,12 @@
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2025-08-23 18:15:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_ghast": {
+    "criteria": {
+      "has_ghast_tear": "2025-08-23 19:00:44 +0000"
     },
     "done": true
   },

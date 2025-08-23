@@ -93,3 +93,10 @@
 [18:59:15] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-526, y=62, z=6} jb{x=-525, y=62, z=6}
 [19:00:11] [Server thread/INFO]: [Not Secure] <VenaticWinner67> ven
 [19:00:12] [Server thread/INFO]: [Not Secure] <Lastsamurai> dond esta mis cosas
+[19:01:35] [Server thread/INFO]: VenaticWinner67 lost connection: Disconnected
+[19:01:35] [Server thread/INFO]: VenaticWinner67 left the game
+[19:02:44] [Server thread/INFO]: Lastsamurai lost connection: Disconnected
+[19:02:44] [Server thread/INFO]: Lastsamurai left the game
+[19:03:04] [Server thread/INFO]: Incorrect argument for command
+[19:03:04] [Server thread/INFO]: ...icWinner67 <--[HERE]
+[19:03:26] [Server thread/INFO]: Made VenaticWinner67 a server operator
