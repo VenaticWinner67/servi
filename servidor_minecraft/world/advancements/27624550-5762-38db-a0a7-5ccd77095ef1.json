@@ -425,13 +425,15 @@
       "minecraft:pillager": "2025-08-18 02:59:35 +0000",
       "minecraft:cave_spider": "2025-08-17 20:05:32 +0000",
       "minecraft:skeleton": "2025-08-16 02:54:56 +0000",
+      "minecraft:piglin": "2025-08-23 17:49:24 +0000",
       "minecraft:phantom": "2025-08-17 05:23:43 +0000",
       "minecraft:enderman": "2025-08-23 16:59:02 +0000",
       "minecraft:witch": "2025-08-17 19:36:35 +0000",
       "minecraft:spider": "2025-08-16 02:51:33 +0000",
       "minecraft:zombie": "2025-08-16 02:49:15 +0000",
       "minecraft:creeper": "2025-08-16 02:50:23 +0000",
-      "minecraft:drowned": "2025-08-17 19:58:50 +0000"
+      "minecraft:drowned": "2025-08-17 19:58:50 +0000",
+      "minecraft:hoglin": "2025-08-23 17:53:18 +0000"
     },
     "done": false
   },
@@ -2335,6 +2337,66 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-08-23 17:07:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-08-23 17:54:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-08-23 17:54:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_helmet": "2025-08-23 17:51:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-08-23 17:55:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_helmet": "2025-08-23 17:51:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-08-23 17:55:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-08-23 17:54:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-08-23 17:54:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-08-23 17:54:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-08-23 17:54:35 +0000"
     },
     "done": true
   },
