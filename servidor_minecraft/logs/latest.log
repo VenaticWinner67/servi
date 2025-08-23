@@ -51,3 +51,8 @@
 [17:22:39] [Server thread/INFO]: [Not Secure] <VenaticWinner67> z
 [17:48:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4103ms or 82 ticks behind
 [17:56:20] [Server thread/INFO]: Seed: [-1918296079873143150]
+[18:12:47] [Server thread/INFO]: VenaticWinner67 has made the advancement [A Terrible Fortress]
+[18:12:57] [Server thread/INFO]: VenaticWinner67 has made the advancement [Into Fire]
+[18:15:05] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-51, y=44, z=128} jb{x=-53, y=45, z=128}
+[18:15:05] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-51, y=44, z=128} jb{x=-53, y=45, z=128}
+[18:17:44] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-334, y=62, z=131} jb{x=-333, y=60, z=131}
