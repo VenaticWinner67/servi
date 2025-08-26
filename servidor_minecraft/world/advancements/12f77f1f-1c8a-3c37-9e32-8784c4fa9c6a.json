@@ -2982,6 +2982,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-08-26 18:18:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/light_gray_harness": {
     "criteria": {
       "has_dried_ghast": "2025-08-26 18:12:35 +0000"
