@@ -23,3 +23,9 @@
 [14:54:10] [Server thread/INFO]: Done (3.047s)! For help, type "help"
 [15:16:06] [Server thread/INFO]: Lastsamurai[/100.86.153.58:61790] logged in with entity id 12 at (-720.2949722465273, 63.0, -1010.046782935376)
 [15:16:06] [Server thread/INFO]: Lastsamurai joined the game
+[16:37:12] [Server thread/INFO]: Lastsamurai lost connection: Timed out
+[16:37:12] [Server thread/INFO]: Lastsamurai left the game
+[16:37:12] [Server thread/WARN]: handleDisconnection() called twice
+[16:37:37] [Server thread/INFO]: Lastsamurai[/100.86.153.58:62116] logged in with entity id 14250 at (-734.8903298510918, 87.0, -1016.7115438487915)
+[16:37:37] [Server thread/INFO]: Lastsamurai joined the game
+[16:43:46] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-799, y=80, z=-955} jb{x=-798, y=78, z=-955}
