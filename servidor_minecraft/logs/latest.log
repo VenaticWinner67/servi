@@ -1,36 +1,23 @@
-[17:17:29] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:17:30] [ServerMain/INFO]: Loaded 1407 recipes
-[17:17:30] [ServerMain/INFO]: Loaded 1520 advancements
-[17:17:31] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[17:17:31] [Server thread/INFO]: Loading properties
-[17:17:31] [Server thread/INFO]: Default game type: SURVIVAL
-[17:17:31] [Server thread/INFO]: Generating keypair
-[17:17:31] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:17:31] [Server thread/INFO]: Using epoll channel type
-[17:17:31] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:17:31] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:17:31] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:17:31] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:17:31] [Server thread/INFO]: Preparing level "world"
-[17:17:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:17:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[17:17:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[17:17:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[17:17:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[17:17:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[17:17:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[17:17:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[17:17:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[17:17:35] [Server thread/INFO]: Time elapsed: 3837 ms
-[17:17:35] [Server thread/INFO]: Done (4.192s)! For help, type "help"
-[17:24:25] [Server thread/INFO]: Lastsamurai[/100.86.153.58:63772] logged in with entity id 12 at (-444.15782482537475, 50.0, -61.5811504005933)
-[17:24:25] [Server thread/INFO]: Lastsamurai joined the game
-[17:25:19] [Server thread/INFO]: Lastsamurai was slain by Piglin
-[17:30:37] [Server thread/INFO]: Lastsamurai was slain by Piglin
-[18:13:15] [Server thread/INFO]: Lastsamurai has made the advancement [Who is Cutting Onions?]
-[18:18:11] [Server thread/INFO]: [Not Secure] [Server] gei
-[18:57:56] [Server thread/INFO]: Lastsamurai lost connection: Timed out
-[18:57:56] [Server thread/INFO]: Lastsamurai left the game
-[18:58:16] [Server thread/INFO]: Lastsamurai[/100.86.153.58:64414] logged in with entity id 12380 at (-720.9956326585096, 63.0, -1009.4808158074403)
-[18:58:16] [Server thread/INFO]: Lastsamurai joined the game
-[18:59:56] [Server thread/INFO]: There are 1 of a max of 20 players online: Lastsamurai
+[14:54:05] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[14:54:06] [ServerMain/INFO]: Loaded 1407 recipes
+[14:54:06] [ServerMain/INFO]: Loaded 1520 advancements
+[14:54:07] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[14:54:07] [Server thread/INFO]: Loading properties
+[14:54:07] [Server thread/INFO]: Default game type: SURVIVAL
+[14:54:07] [Server thread/INFO]: Generating keypair
+[14:54:07] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:54:07] [Server thread/INFO]: Using epoll channel type
+[14:54:07] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:54:07] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:54:07] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:54:07] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:54:07] [Server thread/INFO]: Preparing level "world"
+[14:54:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:54:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:54:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:54:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:54:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:54:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:54:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:54:10] [Server thread/INFO]: Time elapsed: 2739 ms
+[14:54:10] [Server thread/INFO]: Done (3.047s)! For help, type "help"
