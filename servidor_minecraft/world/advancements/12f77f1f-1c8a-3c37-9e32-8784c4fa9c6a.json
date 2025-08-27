@@ -3030,5 +3030,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-08-27 17:51:26 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4440
 }
