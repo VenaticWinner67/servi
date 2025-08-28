@@ -1,38 +1,25 @@
-[14:54:05] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[14:54:06] [ServerMain/INFO]: Loaded 1407 recipes
-[14:54:06] [ServerMain/INFO]: Loaded 1520 advancements
-[14:54:07] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[14:54:07] [Server thread/INFO]: Loading properties
-[14:54:07] [Server thread/INFO]: Default game type: SURVIVAL
-[14:54:07] [Server thread/INFO]: Generating keypair
-[14:54:07] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:54:07] [Server thread/INFO]: Using epoll channel type
-[14:54:07] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14:54:07] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[14:54:07] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14:54:07] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[14:54:07] [Server thread/INFO]: Preparing level "world"
-[14:54:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:54:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:54:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:54:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:54:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:54:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:54:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:54:10] [Server thread/INFO]: Time elapsed: 2739 ms
-[14:54:10] [Server thread/INFO]: Done (3.047s)! For help, type "help"
-[15:16:06] [Server thread/INFO]: Lastsamurai[/100.86.153.58:61790] logged in with entity id 12 at (-720.2949722465273, 63.0, -1010.046782935376)
-[15:16:06] [Server thread/INFO]: Lastsamurai joined the game
-[16:37:12] [Server thread/INFO]: Lastsamurai lost connection: Timed out
-[16:37:12] [Server thread/INFO]: Lastsamurai left the game
-[16:37:12] [Server thread/WARN]: handleDisconnection() called twice
-[16:37:37] [Server thread/INFO]: Lastsamurai[/100.86.153.58:62116] logged in with entity id 14250 at (-734.8903298510918, 87.0, -1016.7115438487915)
-[16:37:37] [Server thread/INFO]: Lastsamurai joined the game
-[16:43:46] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-799, y=80, z=-955} jb{x=-798, y=78, z=-955}
-[16:58:30] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-808, y=75, z=-930} jb{x=-809, y=76, z=-930}
-[17:11:02] [Server thread/INFO]: There are 1 of a max of 20 players online: Lastsamurai
-[17:11:12] [Server thread/INFO]: [Not Secure] [Server] Lee WhatsApp 
-[17:11:23] [Server thread/INFO]: [Not Secure] [Server] puta
-[17:28:01] [Server thread/INFO]: Lastsamurai was slain by Zombie
-[17:53:36] [Server thread/INFO]: There are 1 of a max of 20 players online: Lastsamurai
-[17:53:47] [Server thread/INFO]: [Not Secure] [Server] WHATSAPP!!!!
+[13:45:14] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[13:45:16] [ServerMain/INFO]: Loaded 1407 recipes
+[13:45:16] [ServerMain/INFO]: Loaded 1520 advancements
+[13:45:16] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[13:45:16] [Server thread/INFO]: Loading properties
+[13:45:16] [Server thread/INFO]: Default game type: SURVIVAL
+[13:45:16] [Server thread/INFO]: Generating keypair
+[13:45:16] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:45:16] [Server thread/INFO]: Using epoll channel type
+[13:45:16] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:45:16] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:45:16] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:45:16] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:45:16] [Server thread/INFO]: Preparing level "world"
+[13:45:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:45:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[13:45:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[13:45:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[13:45:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[13:45:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[13:45:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[13:45:19] [Server thread/INFO]: Time elapsed: 2801 ms
+[13:45:19] [Server thread/INFO]: Done (3.176s)! For help, type "help"
+[13:48:17] [Server thread/INFO]: Lastsamurai[/100.86.153.58:57141] logged in with entity id 12 at (-769.6999999880791, 87.0, -997.4871494155522)
+[13:48:18] [Server thread/INFO]: Lastsamurai joined the game
