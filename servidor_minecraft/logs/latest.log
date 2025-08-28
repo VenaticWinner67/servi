@@ -31,3 +31,6 @@
 [14:48:37] [Server thread/INFO]: Lastsamurai left the game
 [14:50:58] [Server thread/INFO]: Lastsamurai[/100.86.153.58:57372] logged in with entity id 10863 at (-554.3000000119209, -29.0, -702.3047176700181)
 [14:50:58] [Server thread/INFO]: Lastsamurai joined the game
+[15:39:24] [Server thread/INFO]: Lastsamurai has made the advancement [Those Were the Days]
+[15:39:53] [Server thread/INFO]: Lastsamurai has made the advancement [War Pigs]
+[15:40:28] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=86, y=45, z=-1} jb{x=82, y=47, z=-4}
