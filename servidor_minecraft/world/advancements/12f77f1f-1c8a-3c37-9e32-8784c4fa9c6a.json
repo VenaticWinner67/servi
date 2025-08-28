@@ -288,6 +288,7 @@
       "minecraft:blaze": "2025-08-23 18:24:56 +0000",
       "minecraft:skeleton": "2025-08-16 02:51:24 +0000",
       "minecraft:zombified_piglin": "2025-08-26 17:45:52 +0000",
+      "minecraft:witch": "2025-08-28 15:04:27 +0000",
       "minecraft:wither_skeleton": "2025-08-26 17:40:31 +0000",
       "minecraft:ghast": "2025-08-23 18:24:13 +0000",
       "minecraft:hoglin": "2025-08-17 17:28:43 +0000",
@@ -3037,6 +3038,30 @@
   "minecraft:recipes/building_blocks/jack_o_lantern": {
     "criteria": {
       "has_carved_pumpkin": "2025-08-27 17:51:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-28 15:05:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-28 15:05:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-28 15:05:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-28 15:05:16 +0000"
     },
     "done": true
   },
