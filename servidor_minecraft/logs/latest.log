@@ -1,91 +1,23 @@
-[13:45:14] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[13:45:16] [ServerMain/INFO]: Loaded 1407 recipes
-[13:45:16] [ServerMain/INFO]: Loaded 1520 advancements
-[13:45:16] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[13:45:16] [Server thread/INFO]: Loading properties
-[13:45:16] [Server thread/INFO]: Default game type: SURVIVAL
-[13:45:16] [Server thread/INFO]: Generating keypair
-[13:45:16] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:45:16] [Server thread/INFO]: Using epoll channel type
-[13:45:16] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[13:45:16] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[13:45:16] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[13:45:16] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[13:45:16] [Server thread/INFO]: Preparing level "world"
-[13:45:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[13:45:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[13:45:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[13:45:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[13:45:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[13:45:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[13:45:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[13:45:19] [Server thread/INFO]: Time elapsed: 2801 ms
-[13:45:19] [Server thread/INFO]: Done (3.176s)! For help, type "help"
-[13:48:17] [Server thread/INFO]: Lastsamurai[/100.86.153.58:57141] logged in with entity id 12 at (-769.6999999880791, 87.0, -997.4871494155522)
-[13:48:18] [Server thread/INFO]: Lastsamurai joined the game
-[14:37:42] [Server thread/INFO]: Lastsamurai lost connection: Disconnected
-[14:37:42] [Server thread/INFO]: Lastsamurai left the game
-[14:46:02] [Server thread/INFO]: Lastsamurai[/100.86.153.58:57312] logged in with entity id 10432 at (-554.3000000119209, -29.0, -702.3047176700181)
-[14:46:02] [Server thread/INFO]: Lastsamurai joined the game
-[14:48:37] [Server thread/INFO]: Lastsamurai lost connection: Disconnected
-[14:48:37] [Server thread/INFO]: Lastsamurai left the game
-[14:50:58] [Server thread/INFO]: Lastsamurai[/100.86.153.58:57372] logged in with entity id 10863 at (-554.3000000119209, -29.0, -702.3047176700181)
-[14:50:58] [Server thread/INFO]: Lastsamurai joined the game
-[15:39:24] [Server thread/INFO]: Lastsamurai has made the advancement [Those Were the Days]
-[15:39:53] [Server thread/INFO]: Lastsamurai has made the advancement [War Pigs]
-[15:40:28] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=86, y=45, z=-1} jb{x=82, y=47, z=-4}
-[15:59:50] [Server thread/INFO]: Lastsamurai was slain by Piglin
-[16:03:50] [Server thread/INFO]: Lastsamurai has made the advancement [Hidden in the Depths]
-[16:21:52] [Server thread/INFO]: VenaticWinner67[/100.76.188.73:58287] logged in with entity id 25810 at (-854.7440068050241, 79.0, -990.8284729924734)
-[16:21:52] [Server thread/INFO]: VenaticWinner67 joined the game
-[16:23:58] [Server thread/INFO]: [Not Secure] <VenaticWinner67> oi tu granja no funca
-[16:23:59] [Server thread/INFO]: [Not Secure] <VenaticWinner67> jajaja
-[16:24:25] [Server thread/INFO]: [Not Secure] <Lastsamurai> no esta terminado wey
-[16:24:26] [Server thread/INFO]: [Not Secure] <VenaticWinner67> manco
-[16:24:35] [Server thread/INFO]: [Not Secure] <VenaticWinner67> zzz
-[16:25:06] [Server thread/INFO]: [Not Secure] <VenaticWinner67> sexo
-[16:27:16] [Server thread/INFO]: Lastsamurai has made the advancement [Local Brewery]
-[16:37:04] [Server thread/INFO]: [Not Secure] <VenaticWinner67> tengo miedo sr pool
-[16:37:14] [Server thread/INFO]: [Not Secure] <VenaticWinner67> zzzzzzzzzzzzzzzzzz
-[16:38:23] [Server thread/INFO]: VenaticWinner67 was shot by Skeleton
-[16:38:42] [Server thread/INFO]: VenaticWinner67 was shot by Skeleton
-[16:46:01] [Server thread/INFO]: [Not Secure] <VenaticWinner67> ya todos tienen buenos encantamientos??
-[16:46:28] [Server thread/INFO]: Villager cuf['Librarian'/23413, l='ServerLevel[world]', x=-832.70, y=78.00, z=-973.50] died, message: 'Librarian was slain by | La putita |'
-[16:49:43] [Server thread/INFO]: Lastsamurai has reached the goal [Zombie Doctor]
-[16:53:17] [Server thread/INFO]: Named entity cso['| La zorrita |'/23415, l='ServerLevel[world]', x=-843.65, y=81.00, z=-970.39] died: | La zorrita | burned to death
-[16:59:57] [Server thread/INFO]: [Not Secure] <VenaticWinner67> z
-[17:05:49] [Server thread/INFO]: [Not Secure] <VenaticWinner67> z
-[17:07:56] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-946, y=89, z=-998} jb{x=-944, y=90, z=-999}
-[17:09:12] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-979, y=85, z=-976} jb{x=-979, y=84, z=-976}
-[17:10:09] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-954, y=81, z=-960} jb{x=-953, y=80, z=-962}
-[17:10:27] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-944, y=79, z=-965} jb{x=-945, y=78, z=-965}
-[17:10:27] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-944, y=79, z=-965} jb{x=-945, y=78, z=-965}
-[17:10:27] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-944, y=79, z=-965} jb{x=-945, y=78, z=-965}
-[17:10:44] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-934, y=82, z=-971} jb{x=-933, y=82, z=-970}
-[17:10:44] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-934, y=82, z=-971} jb{x=-933, y=82, z=-970}
-[17:21:36] [Server thread/INFO]: [Not Secure] <VenaticWinner67> zzzzzzzzzzzzzzzz
-[17:25:47] [Server thread/INFO]: Villager cuf['Librarian'/23414, l='ServerLevel[world]', x=-832.30, y=78.00, z=-967.50] died, message: 'Librarian was slain by | La putita |'
-[17:27:37] [Server thread/INFO]: Villager cuf['Librarian'/23426, l='ServerLevel[world]', x=-832.30, y=78.00, z=-977.50] died, message: 'Librarian was slain by | La putita |'
-[17:29:06] [Server thread/INFO]: Villager cuf['Librarian'/23423, l='ServerLevel[world]', x=-832.30, y=78.00, z=-983.50] died, message: 'Librarian was slain by | La putita |'
-[17:45:15] [Server thread/INFO]: Lastsamurai was slain by gey
-[17:45:28] [Server thread/INFO]: [Not Secure] <VenaticWinner67> bro.....
-[17:59:58] [Server thread/INFO]: [Not Secure] <Lastsamurai> zzzzzzzz
-[18:15:29] [Server thread/INFO]: [Not Secure] <Lastsamurai> zzzzzzzz
-[18:18:21] [Server thread/INFO]: [Not Secure] <VenaticWinner67> dos horas
-[18:18:49] [Server thread/INFO]: [Not Secure] <VenaticWinner67> lo bueno es que da
-[18:28:10] [Server thread/INFO]: [Not Secure] <VenaticWinner67> zzzzzzzzzzzzzzzzzzz
-[18:55:57] [Server thread/INFO]: Villager cuf['Librarian'/23419, l='ServerLevel[world]', x=-842.70, y=78.00, z=-993.50] died, message: 'Librarian was slain by perro'
-[18:56:13] [Server thread/INFO]: Villager cuf['Librarian'/40058, l='ServerLevel[world]', x=-832.30, y=78.00, z=-977.50] died, message: 'Librarian was slain by | La putita |'
-[18:57:36] [Server thread/INFO]: Villager cuf['Librarian'/23417, l='ServerLevel[world]', x=-832.70, y=78.00, z=-995.50] died, message: 'Librarian was slain by | La putita |'
-[19:03:35] [Server thread/INFO]: Villager cuf['Librarian'/59464, l='ServerLevel[world]', x=-842.70, y=78.00, z=-993.50] died, message: 'Librarian was slain by perro'
-[19:04:10] [Server thread/INFO]: Lastsamurai was slain by Zombie
-[19:04:19] [Server thread/INFO]: [Not Secure] <VenaticWinner67> botttttt
-[19:04:22] [Server thread/INFO]: [Not Secure] <VenaticWinner67> mancooo
-[19:04:29] [Server thread/INFO]: [Not Secure] <VenaticWinner67> no pusiste pared
-[19:14:55] [Server thread/INFO]: Villager cuf['Librarian'/23428, l='ServerLevel[world]', x=-842.30, y=79.00, z=-987.46] was struck by lightning cal['Lightning Bolt'/61231, l='ServerLevel[world]', x=-842.50, y=82.00, z=-986.50].
-[19:20:11] [Server thread/INFO]: [Not Secure] <VenaticWinner67> ammm
-[19:31:46] [Server thread/INFO]: Villager cuf['Librarian'/39901, l='ServerLevel[world]', x=-832.70, y=78.00, z=-967.30] died, message: 'Librarian was slain by | La putita |'
-[19:41:46] [Server thread/INFO]: Lastsamurai lost connection: Disconnected
-[19:41:46] [Server thread/INFO]: Lastsamurai left the game
-[20:15:12] [Server thread/INFO]: VenaticWinner67 lost connection: Disconnected
-[20:15:12] [Server thread/INFO]: VenaticWinner67 left the game
+[03:40:53] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:40:55] [ServerMain/INFO]: Loaded 1407 recipes
+[03:40:55] [ServerMain/INFO]: Loaded 1520 advancements
+[03:40:55] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[03:40:55] [Server thread/INFO]: Loading properties
+[03:40:55] [Server thread/INFO]: Default game type: SURVIVAL
+[03:40:55] [Server thread/INFO]: Generating keypair
+[03:40:55] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:40:55] [Server thread/INFO]: Using epoll channel type
+[03:40:55] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:40:55] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:40:55] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:40:55] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:40:55] [Server thread/INFO]: Preparing level "world"
+[03:40:55] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:40:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:40:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:40:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:40:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:40:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:40:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:40:58] [Server thread/INFO]: Time elapsed: 2867 ms
+[03:40:58] [Server thread/INFO]: Done (3.184s)! For help, type "help"
