@@ -3041,12 +3041,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-08-28 15:44:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/calibrated_sculk_sensor": {
     "criteria": {
       "has_amethyst_shard": "2025-08-28 15:05:16 +0000"
@@ -3059,39 +3053,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+  "minecraft:recipes/tools/spyglass": {
     "criteria": {
-      "has_polished_blackstone_bricks": "2025-08-28 15:44:54 +0000"
+      "has_amethyst_shard": "2025-08-28 15:05:16 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dried_ghast": {
+  "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
-      "has_ghast_tear": "2025-08-28 15:46:38 +0000"
+      "has_amethyst_shard": "2025-08-28 15:05:16 +0000"
     },
     "done": true
   },
-  "minecraft:nether/brew_potion": {
+  "minecraft:recipes/misc/raw_iron": {
     "criteria": {
-      "potion": "2025-08-28 16:27:16 +0000"
+      "has_raw_iron_block": "2025-08-28 15:14:39 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
     "criteria": {
-      "has_ancient_debris": "2025-08-28 16:03:50 +0000"
+      "has_warped_fungus": "2025-08-28 15:37:39 +0000"
     },
     "done": true
   },
-  "minecraft:story/cure_zombie_villager": {
+  "minecraft:nether/find_bastion": {
     "criteria": {
-      "cured_zombie": "2025-08-28 16:49:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coal": {
-    "criteria": {
-      "has_coal_block": "2025-08-28 16:26:50 +0000"
+      "bastion": "2025-08-28 15:39:24 +0000"
     },
     "done": true
   },
@@ -3101,9 +3089,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-08-28 15:42:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2025-08-28 15:42:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-08-28 15:42:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-08-28 15:44:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-08-28 15:44:54 +0000"
     },
     "done": true
   },
@@ -3125,51 +3137,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/spyglass": {
-    "criteria": {
-      "has_amethyst_shard": "2025-08-28 15:05:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_scrap": {
-    "criteria": {
-      "has_ancient_debris": "2025-08-28 16:03:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-08-28 15:44:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/amethyst_block": {
-    "criteria": {
-      "has_amethyst_shard": "2025-08-28 15:05:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_bastion": {
-    "criteria": {
-      "bastion": "2025-08-28 15:39:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/raw_iron": {
-    "criteria": {
-      "has_raw_iron_block": "2025-08-28 15:14:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_ancient_debris": {
-    "criteria": {
-      "ancient_debris": "2025-08-28 16:03:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal_from_bone_block": {
-    "criteria": {
-      "has_bone_block": "2025-08-28 15:42:02 +0000"
     },
     "done": true
   },
@@ -3179,15 +3149,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/anvil": {
+  "minecraft:recipes/building_blocks/dried_ghast": {
     "criteria": {
-      "has_iron_block": "2025-08-28 15:42:04 +0000"
+      "has_ghast_tear": "2025-08-28 15:46:38 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
-      "has_warped_fungus": "2025-08-28 15:37:39 +0000"
+      "has_ancient_debris": "2025-08-28 16:03:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-08-28 16:03:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-08-28 16:03:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-08-28 16:26:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-08-28 16:27:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2025-08-28 16:49:43 +0000"
     },
     "done": true
   },
