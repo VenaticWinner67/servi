@@ -295,10 +295,12 @@
       "minecraft:wither_skeleton": "2025-08-26 17:40:31 +0000",
       "minecraft:ravager": "2025-08-30 03:41:43 +0000",
       "minecraft:ghast": "2025-08-23 18:24:13 +0000",
+      "minecraft:ender_dragon": "2025-08-30 04:27:50 +0000",
       "minecraft:hoglin": "2025-08-17 17:28:43 +0000",
       "minecraft:cave_spider": "2025-08-17 05:18:49 +0000",
       "minecraft:piglin": "2025-08-17 17:28:32 +0000",
       "minecraft:vindicator": "2025-08-30 03:30:23 +0000",
+      "minecraft:enderman": "2025-08-30 04:28:36 +0000",
       "minecraft:silverfish": "2025-08-30 04:11:16 +0000",
       "minecraft:spider": "2025-08-17 01:51:02 +0000",
       "minecraft:vex": "2025-08-30 03:36:40 +0000",
@@ -3218,9 +3220,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-08-30 04:31:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-08-30 04:08:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-08-30 04:27:50 +0000"
     },
     "done": true
   },
@@ -3281,6 +3295,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-08-30 04:06:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-08-30 04:31:13 +0000"
     },
     "done": true
   },
