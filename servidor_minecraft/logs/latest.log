@@ -188,3 +188,12 @@
 [05:40:23] [Server thread/INFO]: Lastsamurai[/100.86.153.58:50048] logged in with entity id 78465 at (-721.1203869721543, 63.0, -1010.1669084579861)
 [05:40:23] [Server thread/INFO]: Lastsamurai joined the game
 [06:15:53] [Server thread/INFO]: [Not Secure] <Lastsamurai> zzzzzz
+[06:32:16] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-785, y=78, z=-986} jb{x=-787, y=79, z=-986}
+[06:43:19] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-76, y=73, z=-195} jb{x=-76, y=72, z=-195}
+[06:44:15] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-77, y=61, z=-192} jb{x=-77, y=57, z=-187}
+[06:44:15] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-77, y=61, z=-192} jb{x=-77, y=57, z=-187}
+[06:44:15] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-77, y=61, z=-192} jb{x=-77, y=57, z=-187}
+[06:44:17] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-77, y=53, z=-184} jb{x=-77, y=53, z=-185}
+[06:49:55] [Server thread/INFO]: VenaticWinner67 lost connection: Disconnected
+[06:49:55] [Server thread/INFO]: VenaticWinner67 left the game
+[06:53:44] [Server thread/INFO]: Named entity cso['maraco'/114041, l='ServerLevel[world]', x=-774.29, y=87.49, z=-993.61] died: maraco was burned to a crisp while fighting Lastsamurai
