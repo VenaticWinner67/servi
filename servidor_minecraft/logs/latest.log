@@ -212,3 +212,6 @@
 [07:08:45] [Server thread/INFO]: Villager cuf['Fletcher'/117412, l='ServerLevel[world]', x=-772.16, y=88.19, z=-1005.17] died, message: 'Fletcher was slain by Zombie Villager'
 [07:08:45] [Server thread/INFO]: Villager cuf['Fletcher'/117417, l='ServerLevel[world]', x=-774.37, y=88.19, z=-1005.49] died, message: 'Fletcher was slain by Zombie Villager'
 [07:17:53] [Server thread/INFO]: Villager cuf['Fletcher'/117525, l='ServerLevel[world]', x=-774.37, y=88.19, z=-1005.49] died, message: 'Fletcher was slain by Zombie Villager'
+[07:30:44] [Server thread/INFO]: Villager cuf['Villager'/113154, l='ServerLevel[world]', x=-832.30, y=78.50, z=-1022.30] died, message: 'Villager was squished too much'
+[07:30:46] [Server thread/INFO]: Villager cuf['Villager'/113153, l='ServerLevel[world]', x=-832.30, y=78.50, z=-1022.30] died, message: 'Villager was squished too much'
+[07:35:59] [Server thread/INFO]: Villager cuf['Villager'/113149, l='ServerLevel[world]', x=-832.30, y=78.50, z=-1022.30] died, message: 'Villager was squished too much'
