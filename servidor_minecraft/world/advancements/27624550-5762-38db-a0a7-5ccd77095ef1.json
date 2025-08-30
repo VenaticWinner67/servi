@@ -11,14 +11,20 @@
       "minecraft:flower_forest": "2025-08-17 05:05:37 +0000",
       "minecraft:savanna_plateau": "2025-08-16 04:51:41 +0000",
       "minecraft:snowy_slopes": "2025-08-16 04:54:32 +0000",
+      "minecraft:beach": "2025-08-30 04:00:44 +0000",
       "minecraft:forest": "2025-08-16 02:33:36 +0000",
       "minecraft:taiga": "2025-08-16 03:11:40 +0000",
+      "minecraft:sparse_jungle": "2025-08-30 03:57:15 +0000",
       "minecraft:river": "2025-08-16 02:51:37 +0000",
+      "minecraft:lukewarm_ocean": "2025-08-30 04:01:21 +0000",
       "minecraft:stony_shore": "2025-08-17 02:20:56 +0000",
       "minecraft:dripstone_caves": "2025-08-16 02:40:37 +0000",
+      "minecraft:old_growth_birch_forest": "2025-08-30 03:52:59 +0000",
       "minecraft:deep_dark": "2025-08-17 19:48:01 +0000",
+      "minecraft:jungle": "2025-08-30 03:53:53 +0000",
       "minecraft:cherry_grove": "2025-08-16 04:55:50 +0000",
       "minecraft:meadow": "2025-08-16 03:13:05 +0000",
+      "minecraft:birch_forest": "2025-08-30 03:53:08 +0000",
       "minecraft:savanna": "2025-08-16 04:51:42 +0000",
       "minecraft:plains": "2025-08-16 03:21:45 +0000"
     },
@@ -2738,6 +2744,12 @@
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2025-08-30 03:22:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-08-30 03:46:55 +0000"
     },
     "done": true
   },

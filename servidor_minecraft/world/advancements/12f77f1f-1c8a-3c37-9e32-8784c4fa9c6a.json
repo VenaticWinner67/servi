@@ -14,7 +14,9 @@
       "minecraft:dark_forest": "2025-08-17 02:18:54 +0000",
       "minecraft:forest": "2025-08-16 02:36:46 +0000",
       "minecraft:taiga": "2025-08-16 02:57:26 +0000",
+      "minecraft:sparse_jungle": "2025-08-30 03:57:36 +0000",
       "minecraft:river": "2025-08-16 02:59:23 +0000",
+      "minecraft:lukewarm_ocean": "2025-08-30 04:01:24 +0000",
       "minecraft:stony_shore": "2025-08-17 05:37:32 +0000",
       "minecraft:dripstone_caves": "2025-08-16 02:41:47 +0000",
       "minecraft:old_growth_birch_forest": "2025-08-17 02:15:10 +0000",
@@ -302,7 +304,8 @@
       "minecraft:zombie": "2025-08-16 03:17:43 +0000",
       "minecraft:creeper": "2025-08-17 03:32:16 +0000",
       "minecraft:zombie_villager": "2025-08-17 05:27:29 +0000",
-      "minecraft:slime": "2025-08-17 05:41:17 +0000"
+      "minecraft:slime": "2025-08-17 05:41:17 +0000",
+      "minecraft:evoker": "2025-08-30 03:43:11 +0000"
     },
     "done": false
   },
@@ -3211,6 +3214,12 @@
   "minecraft:recipes/food/suspicious_stew_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2025-08-29 04:48:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-08-30 03:46:55 +0000"
     },
     "done": true
   },
