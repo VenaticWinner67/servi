@@ -197,3 +197,13 @@
 [06:49:55] [Server thread/INFO]: VenaticWinner67 lost connection: Disconnected
 [06:49:55] [Server thread/INFO]: VenaticWinner67 left the game
 [06:53:44] [Server thread/INFO]: Named entity cso['maraco'/114041, l='ServerLevel[world]', x=-774.29, y=87.49, z=-993.61] died: maraco was burned to a crisp while fighting Lastsamurai
+[07:03:41] [Server thread/INFO]: Villager cuf['Farmer'/113084, l='ServerLevel[world]', x=-775.49, y=88.19, z=-1001.87] died, message: 'Farmer was slain by Zombie'
+[07:03:46] [Server thread/INFO]: Villager cuf['Farmer'/113087, l='ServerLevel[world]', x=-774.96, y=88.19, z=-1004.05] died, message: 'Farmer was slain by Zombie'
+[07:03:48] [Server thread/INFO]: Villager cuf['Fletcher'/113083, l='ServerLevel[world]', x=-776.19, y=88.19, z=-1001.49] died, message: 'Fletcher was slain by Zombie Villager'
+[07:03:53] [Server thread/INFO]: Villager cuf['Fletcher'/113091, l='ServerLevel[world]', x=-772.95, y=88.19, z=-1005.27] died, message: 'Fletcher was slain by Zombie'
+[07:03:53] [Server thread/INFO]: Villager cuf['Fletcher'/113086, l='ServerLevel[world]', x=-775.41, y=88.19, z=-1004.71] died, message: 'Fletcher was slain by Zombie Villager'
+[07:04:00] [Server thread/INFO]: Villager cuf['Fletcher'/113090, l='ServerLevel[world]', x=-774.37, y=88.19, z=-1005.49] died, message: 'Fletcher was slain by Zombie Villager'
+[07:04:00] [Server thread/INFO]: Villager cuf['Fletcher'/113072, l='ServerLevel[world]', x=-772.95, y=88.19, z=-1005.27] died, message: 'Fletcher was slain by Zombie Villager'
+[07:04:05] [Server thread/INFO]: Villager cuf['Fletcher'/113089, l='ServerLevel[world]', x=-774.91, y=88.19, z=-1006.08] died, message: 'Fletcher was slain by Zombie Villager'
+[07:06:02] [Server thread/INFO]: Villager cuf['Armorer'/113081, l='ServerLevel[world]', x=-780.29, y=88.19, z=-999.26] died, message: 'Armorer was slain by Lastsamurai'
+[07:06:50] [Server thread/INFO]: Lastsamurai has reached the goal [Postmortal]
