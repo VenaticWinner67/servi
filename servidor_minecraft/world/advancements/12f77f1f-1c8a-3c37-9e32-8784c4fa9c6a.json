@@ -3739,5 +3739,11 @@
     },
     "done": true
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-08-30 07:06:50 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4440
 }

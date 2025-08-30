@@ -207,3 +207,7 @@
 [07:04:05] [Server thread/INFO]: Villager cuf['Fletcher'/113089, l='ServerLevel[world]', x=-774.91, y=88.19, z=-1006.08] died, message: 'Fletcher was slain by Zombie Villager'
 [07:06:02] [Server thread/INFO]: Villager cuf['Armorer'/113081, l='ServerLevel[world]', x=-780.29, y=88.19, z=-999.26] died, message: 'Armorer was slain by Lastsamurai'
 [07:06:50] [Server thread/INFO]: Lastsamurai has reached the goal [Postmortal]
+[07:07:29] [Server thread/INFO]: Villager cuf['Cleric'/113080, l='ServerLevel[world]', x=-776.96, y=88.00, z=-1014.60] died, message: 'Cleric was slain by Zombie'
+[07:08:44] [Server thread/INFO]: Villager cuf['Fletcher'/117419, l='ServerLevel[world]', x=-774.96, y=88.19, z=-1004.05] died, message: 'Fletcher was slain by Zombie Villager'
+[07:08:45] [Server thread/INFO]: Villager cuf['Fletcher'/117412, l='ServerLevel[world]', x=-772.16, y=88.19, z=-1005.17] died, message: 'Fletcher was slain by Zombie Villager'
+[07:08:45] [Server thread/INFO]: Villager cuf['Fletcher'/117417, l='ServerLevel[world]', x=-774.37, y=88.19, z=-1005.49] died, message: 'Fletcher was slain by Zombie Villager'
