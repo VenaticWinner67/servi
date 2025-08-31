@@ -24,7 +24,9 @@
       "minecraft:old_growth_birch_forest": "2025-08-30 03:52:59 +0000",
       "minecraft:deep_dark": "2025-08-17 19:48:01 +0000",
       "minecraft:jungle": "2025-08-30 03:53:53 +0000",
+      "minecraft:ocean": "2025-08-31 20:42:25 +0000",
       "minecraft:cherry_grove": "2025-08-16 04:55:50 +0000",
+      "minecraft:sunflower_plains": "2025-08-31 20:42:22 +0000",
       "minecraft:meadow": "2025-08-16 03:13:05 +0000",
       "minecraft:birch_forest": "2025-08-30 03:53:08 +0000",
       "minecraft:savanna": "2025-08-16 04:51:42 +0000",
@@ -3385,6 +3387,12 @@
   "minecraft:recipes/misc/quartz_from_blasting": {
     "criteria": {
       "has_nether_quartz_ore": "2025-08-31 20:08:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-08-31 20:32:09 +0000"
     },
     "done": true
   },
