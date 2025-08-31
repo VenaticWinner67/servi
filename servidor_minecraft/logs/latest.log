@@ -72,3 +72,10 @@
 [22:30:47] [Server thread/INFO]: VenaticWinner67 left the game
 [22:33:09] [Server thread/INFO]: VenaticWinner67[/100.76.188.73:63431] logged in with entity id 107956 at (-776.3000000119209, 85.0, -798.6999999880791)
 [22:33:09] [Server thread/INFO]: VenaticWinner67 joined the game
+[22:41:52] [Server thread/INFO]: Incorrect argument for command
+[22:41:52] [Server thread/INFO]: ...ifficulty pacific<--[HERE]
+[22:42:08] [Server thread/INFO]: Incorrect argument for command
+[22:42:08] [Server thread/INFO]: ...icWinner67 <--[HERE]
+[22:42:24] [Server thread/INFO]: Made VenaticWinner67 a server operator
+[22:42:39] [Server thread/INFO]: [VenaticWinner67: The difficulty has been set to Peaceful]
+[22:45:13] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-857, y=100, z=-712} jb{x=-857, y=99, z=-712}
