@@ -43,3 +43,6 @@
 [18:38:44] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-483, y=60, z=-590} jb{x=-481, y=63, z=-582}
 [18:38:44] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-483, y=60, z=-590} jb{x=-481, y=63, z=-582}
 [18:39:27] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-465, y=62, z=-543} jb{x=-465, y=60, z=-543}
+[18:55:16] [Server thread/INFO]: VenaticWinner67 lost connection: Disconnected
+[18:55:16] [Server thread/INFO]: VenaticWinner67 left the game
+[18:56:38] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-599, y=127, z=-915} jb{x=-600, y=126, z=-915}
