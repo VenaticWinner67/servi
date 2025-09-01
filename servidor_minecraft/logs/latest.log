@@ -32,3 +32,5 @@
 [03:30:35] [Server thread/INFO]: [Not Secure] <Lastsamurai> como es cuantas granjas ya has hecho oi
 [03:38:50] [Server thread/INFO]: [Not Secure] <Lastsamurai> zzzzzzz
 [03:38:53] [Server thread/INFO]: [Not Secure] <Lastsamurai> zzzzzz
+[04:41:47] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-752, y=85, z=-806} jb{x=-751, y=85, z=-806}
+[04:41:48] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-749, y=86, z=-809} jb{x=-748, y=85, z=-808}
