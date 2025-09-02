@@ -47,3 +47,6 @@
 [22:11:07] [Server thread/WARN]: handleDisconnection() called twice
 [22:11:14] [Server thread/INFO]: Lastsamurai[/100.86.153.58:65399] logged in with entity id 44464 at (-247.43912958261922, 57.0, 23.776281698200677)
 [22:11:14] [Server thread/INFO]: Lastsamurai joined the game
+[23:00:49] [Server thread/INFO]: There are 1 of a max of 20 players online: Lastsamurai
+[23:01:02] [Server thread/INFO]: Lastsamurai lost connection: Disconnected
+[23:01:02] [Server thread/INFO]: Lastsamurai left the game
