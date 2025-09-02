@@ -42,3 +42,8 @@
 [20:15:10] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1026, y=63, z=-1983} jb{x=-1027, y=62, z=-1983}
 [20:19:59] [Server thread/INFO]: There are 1 of a max of 20 players online: Lastsamurai
 [20:22:29] [Server thread/INFO]: Lastsamurai was shot by Skeleton
+[22:11:07] [Server thread/INFO]: Lastsamurai lost connection: Timed out
+[22:11:07] [Server thread/INFO]: Lastsamurai left the game
+[22:11:07] [Server thread/WARN]: handleDisconnection() called twice
+[22:11:14] [Server thread/INFO]: Lastsamurai[/100.86.153.58:65399] logged in with entity id 44464 at (-247.43912958261922, 57.0, 23.776281698200677)
+[22:11:14] [Server thread/INFO]: Lastsamurai joined the game
