@@ -27,3 +27,18 @@
 [19:36:39] [Server thread/INFO]: Lastsamurai[/100.86.153.58:64780] logged in with entity id 12 at (-719.3000000119209, 63.0, -1008.3000000119209)
 [19:36:39] [Server thread/INFO]: Lastsamurai joined the game
 [19:59:30] [Server thread/INFO]: There are 1 of a max of 20 players online: Lastsamurai
+[20:14:52] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1025, y=63, z=-1984} jb{x=-1025, y=61, z=-1985}
+[20:14:52] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1025, y=63, z=-1984} jb{x=-1025, y=61, z=-1985}
+[20:14:52] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1025, y=63, z=-1984} jb{x=-1025, y=61, z=-1985}
+[20:14:52] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1026, y=63, z=-1984} jb{x=-1025, y=61, z=-1985}
+[20:14:52] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1026, y=63, z=-1984} jb{x=-1025, y=61, z=-1985}
+[20:14:52] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1026, y=63, z=-1984} jb{x=-1025, y=61, z=-1985}
+[20:14:52] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1026, y=63, z=-1984} jb{x=-1025, y=61, z=-1985}
+[20:14:52] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1026, y=63, z=-1984} jb{x=-1025, y=61, z=-1985}
+[20:14:52] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1026, y=63, z=-1984} jb{x=-1025, y=61, z=-1985}
+[20:14:52] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1026, y=63, z=-1984} jb{x=-1025, y=61, z=-1985}
+[20:14:52] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1026, y=63, z=-1984} jb{x=-1025, y=61, z=-1985}
+[20:15:10] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1026, y=63, z=-1983} jb{x=-1027, y=62, z=-1983}
+[20:15:10] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1026, y=63, z=-1983} jb{x=-1027, y=62, z=-1983}
+[20:19:59] [Server thread/INFO]: There are 1 of a max of 20 players online: Lastsamurai
+[20:22:29] [Server thread/INFO]: Lastsamurai was shot by Skeleton
