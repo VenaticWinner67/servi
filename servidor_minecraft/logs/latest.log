@@ -70,3 +70,4 @@
 [18:43:22] [Server thread/INFO]: Villager cuf['Fisherman'/27738, l='ServerLevel[world]', x=-823.70, y=75.00, z=-1020.40] died, message: 'Fisherman was slain by Zombie'
 [18:43:27] [Server thread/INFO]: Villager cuf['Fisherman'/27737, l='ServerLevel[world]', x=-821.32, y=75.00, z=-1024.90] died, message: 'Fisherman was slain by Zombie Villager'
 [18:43:28] [Server thread/INFO]: Villager cuf['Fisherman'/27739, l='ServerLevel[world]', x=-821.58, y=76.00, z=-1025.74] died, message: 'Fisherman was slain by Zombie Villager'
+[18:49:52] [Server thread/WARN]: Lastsamurai moved too quickly! 6.854248067421963,3.249187078744683,-6.986727485094434
