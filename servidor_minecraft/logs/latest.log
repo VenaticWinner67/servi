@@ -67,3 +67,6 @@
 [17:36:56] [Server thread/INFO]: VenaticWinner67 left the game
 [17:37:38] [Server thread/INFO]: Villager cuf['Librarian'/4496, l='ServerLevel[world]', x=-832.70, y=79.00, z=-969.46] was struck by lightning cal['Lightning Bolt'/19818, l='ServerLevel[world]', x=-834.50, y=79.00, z=-967.50].
 [17:37:38] [Server thread/INFO]: Villager cuf['Librarian'/4498, l='ServerLevel[world]', x=-832.30, y=79.00, z=-967.50] was struck by lightning cal['Lightning Bolt'/19818, l='ServerLevel[world]', x=-834.50, y=79.00, z=-967.50].
+[18:43:22] [Server thread/INFO]: Villager cuf['Fisherman'/27738, l='ServerLevel[world]', x=-823.70, y=75.00, z=-1020.40] died, message: 'Fisherman was slain by Zombie'
+[18:43:27] [Server thread/INFO]: Villager cuf['Fisherman'/27737, l='ServerLevel[world]', x=-821.32, y=75.00, z=-1024.90] died, message: 'Fisherman was slain by Zombie Villager'
+[18:43:28] [Server thread/INFO]: Villager cuf['Fisherman'/27739, l='ServerLevel[world]', x=-821.58, y=76.00, z=-1025.74] died, message: 'Fisherman was slain by Zombie Villager'
