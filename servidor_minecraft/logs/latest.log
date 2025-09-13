@@ -63,3 +63,7 @@
 [17:24:28] [Server thread/INFO]: [Not Secure] <Lastsamurai> se perdio
 [17:26:48] [Server thread/WARN]: Lastsamurai moved too quickly! -7.7644482295659145,-2.3082108330066546,-6.889831340172009
 [17:35:36] [Server thread/INFO]: VenaticWinner67 has made the advancement [Take Aim]
+[17:36:56] [Server thread/INFO]: VenaticWinner67 lost connection: Disconnected
+[17:36:56] [Server thread/INFO]: VenaticWinner67 left the game
+[17:37:38] [Server thread/INFO]: Villager cuf['Librarian'/4496, l='ServerLevel[world]', x=-832.70, y=79.00, z=-969.46] was struck by lightning cal['Lightning Bolt'/19818, l='ServerLevel[world]', x=-834.50, y=79.00, z=-967.50].
+[17:37:38] [Server thread/INFO]: Villager cuf['Librarian'/4498, l='ServerLevel[world]', x=-832.30, y=79.00, z=-967.50] was struck by lightning cal['Lightning Bolt'/19818, l='ServerLevel[world]', x=-834.50, y=79.00, z=-967.50].
