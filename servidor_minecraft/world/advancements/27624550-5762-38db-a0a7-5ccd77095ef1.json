@@ -8,12 +8,20 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2025-08-17 20:12:02 +0000",
-      "minecraft:flower_forest": "2025-08-17 05:05:37 +0000",
-      "minecraft:savanna_plateau": "2025-08-16 04:51:41 +0000",
       "minecraft:snowy_slopes": "2025-08-16 04:54:32 +0000",
-      "minecraft:beach": "2025-08-30 04:00:44 +0000",
       "minecraft:forest": "2025-08-16 02:33:36 +0000",
       "minecraft:taiga": "2025-08-16 03:11:40 +0000",
+      "minecraft:deep_ocean": "2025-09-14 01:04:36 +0000",
+      "minecraft:jungle": "2025-08-30 03:53:53 +0000",
+      "minecraft:ocean": "2025-08-31 20:42:25 +0000",
+      "minecraft:cherry_grove": "2025-08-16 04:55:50 +0000",
+      "minecraft:sunflower_plains": "2025-08-31 20:42:22 +0000",
+      "minecraft:birch_forest": "2025-08-30 03:53:08 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-09-14 01:03:29 +0000",
+      "minecraft:flower_forest": "2025-08-17 05:05:37 +0000",
+      "minecraft:savanna_plateau": "2025-08-16 04:51:41 +0000",
+      "minecraft:beach": "2025-08-30 04:00:44 +0000",
+      "minecraft:dark_forest": "2025-09-14 01:02:12 +0000",
       "minecraft:sparse_jungle": "2025-08-30 03:57:15 +0000",
       "minecraft:river": "2025-08-16 02:51:37 +0000",
       "minecraft:lukewarm_ocean": "2025-08-30 04:01:21 +0000",
@@ -23,12 +31,7 @@
       "minecraft:snowy_taiga": "2025-08-30 06:20:44 +0000",
       "minecraft:old_growth_birch_forest": "2025-08-30 03:52:59 +0000",
       "minecraft:deep_dark": "2025-08-17 19:48:01 +0000",
-      "minecraft:jungle": "2025-08-30 03:53:53 +0000",
-      "minecraft:ocean": "2025-08-31 20:42:25 +0000",
-      "minecraft:cherry_grove": "2025-08-16 04:55:50 +0000",
-      "minecraft:sunflower_plains": "2025-08-31 20:42:22 +0000",
       "minecraft:meadow": "2025-08-16 03:13:05 +0000",
-      "minecraft:birch_forest": "2025-08-30 03:53:08 +0000",
       "minecraft:savanna": "2025-08-16 04:51:42 +0000",
       "minecraft:plains": "2025-08-16 03:21:45 +0000"
     },
@@ -3536,6 +3539,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-09-14 01:04:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_leggings_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-09-13 23:43:41 +0000"
@@ -3695,6 +3704,12 @@
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2025-09-13 23:40:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-09-14 01:04:09 +0000"
     },
     "done": true
   },
