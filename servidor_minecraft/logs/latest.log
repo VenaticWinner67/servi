@@ -115,3 +115,11 @@
 [18:46:34] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-959, y=84, z=-1059} jb{x=-960, y=84, z=-1058}
 [18:46:46] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-958, y=87, z=-1062} jb{x=-954, y=83, z=-1060}
 [18:47:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3615ms or 72 ticks behind
+[18:48:46] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-967, y=78, z=-1073} jb{x=-966, y=78, z=-1073}
+[18:49:12] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-957, y=86, z=-1070} jb{x=-959, y=85, z=-1070}
+[18:49:30] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-955, y=86, z=-1068} jb{x=-955, y=82, z=-1068}
+[18:49:30] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-955, y=86, z=-1068} jb{x=-955, y=82, z=-1068}
+[18:54:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4567ms or 91 ticks behind
+[18:55:59] [Server thread/INFO]: [Not Secure] <VenaticWinner67> gei
+[18:56:50] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-947, y=85, z=-1072} jb{x=-948, y=81, z=-1068}
+[18:57:33] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-924, y=78, z=-1074} jb{x=-925, y=78, z=-1073}
