@@ -36,3 +36,33 @@
 [18:45:45] [Server thread/WARN]: Lastsamurai moved wrongly!
 [18:47:56] [Server thread/INFO]: Lastsamurai has reached the goal [Revaulting]
 [19:26:57] [Server thread/INFO]: There are 1 of a max of 20 players online: Lastsamurai
+[19:39:07] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=966, y=65, z=108} jb{x=965, y=64, z=107}
+[19:39:16] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=966, y=65, z=106} jb{x=965, y=64, z=106}
+[19:39:25] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=970, y=64, z=103} jb{x=970, y=63, z=104}
+[19:40:43] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=981, y=65, z=114} jb{x=981, y=64, z=113}
+[19:40:43] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=981, y=65, z=114} jb{x=981, y=64, z=113}
+[19:40:50] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=981, y=65, z=115} jb{x=983, y=64, z=115}
+[19:41:43] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=966, y=65, z=113} jb{x=965, y=64, z=115}
+[19:41:43] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=966, y=65, z=113} jb{x=965, y=64, z=115}
+[19:41:45] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=966, y=65, z=113} jb{x=965, y=64, z=115}
+[19:41:45] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=966, y=65, z=113} jb{x=965, y=64, z=115}
+[19:41:50] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=965, y=67, z=107} jb{x=965, y=64, z=107}
+[19:41:50] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=965, y=67, z=108} jb{x=965, y=64, z=107}
+[19:41:50] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=965, y=67, z=108} jb{x=965, y=64, z=107}
+[19:41:53] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=965, y=65, z=104} jb{x=965, y=64, z=106}
+[19:41:53] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=965, y=65, z=104} jb{x=965, y=64, z=106}
+[19:42:00] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=964, y=65, z=100} jb{x=964, y=63, z=101}
+[19:42:00] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=963, y=65, z=100} jb{x=964, y=63, z=101}
+[19:42:00] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=963, y=65, z=100} jb{x=964, y=63, z=101}
+[19:42:00] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=963, y=65, z=100} jb{x=964, y=63, z=101}
+[19:42:00] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=964, y=66, z=99} jb{x=964, y=63, z=101}
+[19:42:00] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=964, y=66, z=99} jb{x=964, y=63, z=101}
+[19:42:00] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=964, y=66, z=99} jb{x=964, y=63, z=101}
+[19:42:01] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=964, y=66, z=99} jb{x=964, y=63, z=101}
+[19:42:01] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=964, y=66, z=99} jb{x=964, y=63, z=101}
+[19:42:01] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=964, y=66, z=99} jb{x=964, y=63, z=101}
+[19:42:01] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=964, y=66, z=99} jb{x=964, y=63, z=101}
+[19:42:01] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=964, y=65, z=100} jb{x=963, y=63, z=100}
+[19:42:01] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=963, y=65, z=100} jb{x=963, y=63, z=100}
+[19:42:04] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=964, y=65, z=103} jb{x=964, y=64, z=104}
+[19:42:12] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=964, y=66, z=109} jb{x=964, y=64, z=110}
