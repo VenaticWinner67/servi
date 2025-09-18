@@ -13,9 +13,12 @@
       "minecraft:forest": "2025-08-16 02:36:46 +0000",
       "minecraft:taiga": "2025-08-16 02:57:26 +0000",
       "minecraft:lush_caves": "2025-09-15 04:53:08 +0000",
+      "minecraft:deep_cold_ocean": "2025-09-18 19:45:32 +0000",
+      "minecraft:ice_spikes": "2025-09-18 19:48:42 +0000",
       "minecraft:frozen_ocean": "2025-09-15 05:13:04 +0000",
       "minecraft:frozen_river": "2025-09-15 05:13:18 +0000",
       "minecraft:windswept_forest": "2025-09-15 05:14:28 +0000",
+      "minecraft:deep_frozen_ocean": "2025-09-18 19:50:43 +0000",
       "minecraft:ocean": "2025-08-17 05:38:18 +0000",
       "minecraft:jungle": "2025-08-17 19:35:17 +0000",
       "minecraft:cherry_grove": "2025-08-17 02:44:13 +0000",
@@ -4465,6 +4468,48 @@
     },
     "done": true
   },
+  "minecraft:adventure/revaulting": {
+    "criteria": {
+      "revaulting": "2025-09-18 18:47:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-09-18 18:48:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2025-09-18 18:58:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2025-09-18 18:58:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting_redstone_ore": {
+    "criteria": {
+      "has_redstone_ore": "2025-09-18 19:12:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting_redstone_ore": {
+    "criteria": {
+      "has_redstone_ore": "2025-09-18 19:12:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-09-18 19:17:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
       "has_quartz_block": "2025-09-18 19:17:54 +0000"
@@ -4489,12 +4534,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_blasting_deepslate_gold_ore": {
-    "criteria": {
-      "has_deepslate_gold_ore": "2025-09-18 18:58:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/quartz_bricks": {
     "criteria": {
       "has_quartz_block": "2025-09-18 19:17:54 +0000"
@@ -4504,12 +4543,6 @@
   "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-09-18 19:17:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/revaulting": {
-    "criteria": {
-      "revaulting": "2025-09-18 18:47:56 +0000"
     },
     "done": true
   },
@@ -4537,33 +4570,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone": {
-    "criteria": {
-      "has_redstone_block": "2025-09-18 19:17:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_smelting_deepslate_gold_ore": {
-    "criteria": {
-      "has_deepslate_gold_ore": "2025-09-18 18:58:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-09-18 19:17:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_from_smelting_redstone_ore": {
-    "criteria": {
-      "has_redstone_ore": "2025-09-18 19:12:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_from_blasting_redstone_ore": {
-    "criteria": {
-      "has_redstone_ore": "2025-09-18 19:12:51 +0000"
     },
     "done": true
   },
@@ -4573,9 +4582,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/mojang_banner_pattern": {
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "has_enchanted_golden_apple": "2025-09-18 18:48:05 +0000"
+      "has_smithing_trim_template": "2025-09-18 20:11:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
+    "criteria": {
+      "has_vex_armor_trim_smithing_template": "2025-09-18 20:11:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/resin_block": {
+    "criteria": {
+      "has_resin_clump": "2025-09-18 20:11:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/resin_brick": {
+    "criteria": {
+      "has_resin_clump": "2025-09-18 20:11:12 +0000"
     },
     "done": true
   },
