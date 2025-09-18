@@ -298,27 +298,29 @@
       "minecraft:pillager": "2025-08-18 14:56:05 +0000",
       "minecraft:blaze": "2025-08-23 18:24:56 +0000",
       "minecraft:skeleton": "2025-08-16 02:51:24 +0000",
+      "minecraft:ravager": "2025-08-30 03:41:43 +0000",
+      "minecraft:bogged": "2025-09-18 18:10:42 +0000",
+      "minecraft:ghast": "2025-08-23 18:24:13 +0000",
+      "minecraft:hoglin": "2025-08-17 17:28:43 +0000",
+      "minecraft:vindicator": "2025-08-30 03:30:23 +0000",
+      "minecraft:spider": "2025-08-17 01:51:02 +0000",
+      "minecraft:creeper": "2025-08-17 03:32:16 +0000",
+      "minecraft:slime": "2025-08-17 05:41:17 +0000",
+      "minecraft:evoker": "2025-08-30 03:43:11 +0000",
       "minecraft:phantom": "2025-08-30 02:35:35 +0000",
       "minecraft:zombified_piglin": "2025-08-26 17:45:52 +0000",
       "minecraft:witch": "2025-08-28 15:04:27 +0000",
       "minecraft:wither_skeleton": "2025-08-26 17:40:31 +0000",
-      "minecraft:ravager": "2025-08-30 03:41:43 +0000",
-      "minecraft:ghast": "2025-08-23 18:24:13 +0000",
+      "minecraft:husk": "2025-09-18 18:07:45 +0000",
       "minecraft:ender_dragon": "2025-08-30 04:27:50 +0000",
-      "minecraft:hoglin": "2025-08-17 17:28:43 +0000",
       "minecraft:shulker": "2025-08-30 04:37:09 +0000",
       "minecraft:cave_spider": "2025-08-17 05:18:49 +0000",
       "minecraft:piglin": "2025-08-17 17:28:32 +0000",
-      "minecraft:vindicator": "2025-08-30 03:30:23 +0000",
       "minecraft:enderman": "2025-08-30 04:28:36 +0000",
       "minecraft:silverfish": "2025-08-30 04:11:16 +0000",
-      "minecraft:spider": "2025-08-17 01:51:02 +0000",
       "minecraft:vex": "2025-08-30 03:36:40 +0000",
       "minecraft:zombie": "2025-08-16 03:17:43 +0000",
-      "minecraft:creeper": "2025-08-17 03:32:16 +0000",
-      "minecraft:zombie_villager": "2025-08-17 05:27:29 +0000",
-      "minecraft:slime": "2025-08-17 05:41:17 +0000",
-      "minecraft:evoker": "2025-08-30 03:43:11 +0000"
+      "minecraft:zombie_villager": "2025-08-17 05:27:29 +0000"
     },
     "done": false
   },
@@ -4152,6 +4154,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_copper_grate": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-09-18 18:05:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-09-18 17:52:48 +0000"
@@ -4164,9 +4172,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/bamboo_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-09-18 18:06:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-09-18 17:52:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-09-18 18:05:42 +0000"
     },
     "done": true
   },
@@ -4182,9 +4202,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_chiseled_copper_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-09-18 18:05:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-09-18 17:52:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-09-18 18:06:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/waxed_copper_bulb": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-09-18 18:05:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-09-18 18:07:37 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-09-18 18:06:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-09-18 18:05:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_slab": {
+    "criteria": {
+      "has_planks": "2025-09-18 18:06:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lighten_up": {
+    "criteria": {
+      "lighten_up": "2025-09-18 18:05:58 +0000"
     },
     "done": true
   },
@@ -4197,6 +4265,12 @@
   "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-09-18 17:52:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/wax_off": {
+    "criteria": {
+      "wax_off": "2025-09-18 18:05:58 +0000"
     },
     "done": true
   },
@@ -4230,9 +4304,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/bamboo_button": {
+    "criteria": {
+      "has_planks": "2025-09-18 18:06:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-09-18 18:06:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-09-18 17:52:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-09-18 18:06:20 +0000"
     },
     "done": true
   },
@@ -4242,9 +4334,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-09-18 18:05:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_stairs": {
+    "criteria": {
+      "has_planks": "2025-09-18 18:06:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-09-18 17:52:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_waxed_copper_block": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-09-18 18:05:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_grate_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-09-18 18:05:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_sign": {
+    "criteria": {
+      "has_planks": "2025-09-18 18:06:20 +0000"
     },
     "done": true
   },
@@ -4257,6 +4379,30 @@
   "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-09-18 17:52:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-09-18 18:05:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_door": {
+    "criteria": {
+      "has_planks": "2025-09-18 18:06:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_fence": {
+    "criteria": {
+      "has_planks": "2025-09-18 18:06:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-09-18 18:06:01 +0000"
     },
     "done": true
   },
