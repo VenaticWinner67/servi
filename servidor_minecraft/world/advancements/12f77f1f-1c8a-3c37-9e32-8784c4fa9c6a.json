@@ -4462,5 +4462,17 @@
     },
     "done": true
   },
+  "minecraft:adventure/revaulting": {
+    "criteria": {
+      "revaulting": "2025-09-18 18:47:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-09-18 18:48:05 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4440
 }
