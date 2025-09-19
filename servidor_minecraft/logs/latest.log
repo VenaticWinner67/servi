@@ -1,90 +1,31 @@
-[17:13:50] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:13:52] [ServerMain/INFO]: Loaded 1407 recipes
-[17:13:52] [ServerMain/INFO]: Loaded 1520 advancements
-[17:13:52] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[17:13:52] [Server thread/INFO]: Loading properties
-[17:13:52] [Server thread/INFO]: Default game type: SURVIVAL
-[17:13:52] [Server thread/INFO]: Generating keypair
-[17:13:53] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:13:53] [Server thread/INFO]: Using epoll channel type
-[17:13:53] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:13:53] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:13:53] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:13:53] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:13:53] [Server thread/INFO]: Preparing level "world"
-[17:13:53] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:13:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:13:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:13:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:13:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:13:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:13:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:13:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:13:57] [Worker-Main-1/INFO]: Preparing spawn area: 22%
-[17:13:57] [Server thread/INFO]: Time elapsed: 3919 ms
-[17:13:57] [Server thread/INFO]: Done (4.205s)! For help, type "help"
-[17:24:49] [Server thread/INFO]: Lastsamurai[/100.86.153.58:62047] logged in with entity id 12 at (-760.3000000119209, 87.5625, -1001.6395176851831)
-[17:24:49] [Server thread/INFO]: Lastsamurai joined the game
-[17:41:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2470ms or 49 ticks behind
-[18:05:58] [Server thread/INFO]: Lastsamurai has made the advancement [Wax Off]
-[18:05:58] [Server thread/INFO]: Lastsamurai has made the advancement [Lighten Up]
-[18:14:51] [Server thread/INFO]: Lastsamurai has made the advancement [Under Lock and Key]
-[18:37:06] [Server thread/INFO]: Lastsamurai lost connection: Disconnected
-[18:37:06] [Server thread/INFO]: Lastsamurai left the game
-[18:37:22] [Server thread/INFO]: Lastsamurai[/100.86.153.58:62252] logged in with entity id 14487 at (-916.549207528927, -15.0, -974.5019934234683)
-[18:37:22] [Server thread/INFO]: Lastsamurai joined the game
-[18:45:45] [Server thread/WARN]: Lastsamurai moved wrongly!
-[18:47:56] [Server thread/INFO]: Lastsamurai has reached the goal [Revaulting]
-[19:26:57] [Server thread/INFO]: There are 1 of a max of 20 players online: Lastsamurai
-[19:39:07] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=966, y=65, z=108} jb{x=965, y=64, z=107}
-[19:39:16] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=966, y=65, z=106} jb{x=965, y=64, z=106}
-[19:39:25] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=970, y=64, z=103} jb{x=970, y=63, z=104}
-[19:40:43] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=981, y=65, z=114} jb{x=981, y=64, z=113}
-[19:40:43] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=981, y=65, z=114} jb{x=981, y=64, z=113}
-[19:40:50] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=981, y=65, z=115} jb{x=983, y=64, z=115}
-[19:41:43] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=966, y=65, z=113} jb{x=965, y=64, z=115}
-[19:41:43] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=966, y=65, z=113} jb{x=965, y=64, z=115}
-[19:41:45] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=966, y=65, z=113} jb{x=965, y=64, z=115}
-[19:41:45] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=966, y=65, z=113} jb{x=965, y=64, z=115}
-[19:41:50] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=965, y=67, z=107} jb{x=965, y=64, z=107}
-[19:41:50] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=965, y=67, z=108} jb{x=965, y=64, z=107}
-[19:41:50] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=965, y=67, z=108} jb{x=965, y=64, z=107}
-[19:41:53] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=965, y=65, z=104} jb{x=965, y=64, z=106}
-[19:41:53] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=965, y=65, z=104} jb{x=965, y=64, z=106}
-[19:42:00] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=964, y=65, z=100} jb{x=964, y=63, z=101}
-[19:42:00] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=963, y=65, z=100} jb{x=964, y=63, z=101}
-[19:42:00] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=963, y=65, z=100} jb{x=964, y=63, z=101}
-[19:42:00] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=963, y=65, z=100} jb{x=964, y=63, z=101}
-[19:42:00] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=964, y=66, z=99} jb{x=964, y=63, z=101}
-[19:42:00] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=964, y=66, z=99} jb{x=964, y=63, z=101}
-[19:42:00] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=964, y=66, z=99} jb{x=964, y=63, z=101}
-[19:42:01] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=964, y=66, z=99} jb{x=964, y=63, z=101}
-[19:42:01] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=964, y=66, z=99} jb{x=964, y=63, z=101}
-[19:42:01] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=964, y=66, z=99} jb{x=964, y=63, z=101}
-[19:42:01] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=964, y=66, z=99} jb{x=964, y=63, z=101}
-[19:42:01] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=964, y=65, z=100} jb{x=963, y=63, z=100}
-[19:42:01] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=963, y=65, z=100} jb{x=963, y=63, z=100}
-[19:42:04] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=964, y=65, z=103} jb{x=964, y=64, z=104}
-[19:42:12] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=964, y=66, z=109} jb{x=964, y=64, z=110}
-[19:46:09] [Server thread/WARN]: Lastsamurai moved too quickly! 18.039807085949178,-1.9207532480894258,1.1325783512482985
-[19:47:17] [Server thread/WARN]: Lastsamurai moved too quickly! -0.5141854181715644,1.5654042961288184,-18.134303296082862
-[19:48:52] [Server thread/INFO]: Villager cuf['Villager'/60946, l='ServerLevel[world]', x=3511.28, y=64.00, z=1199.37] died, message: 'Villager suffocated in a wall'
-[19:48:53] [Server thread/INFO]: Villager cuf['Villager'/61013, l='ServerLevel[world]', x=3498.37, y=63.50, z=1214.72] died, message: 'Villager suffocated in a wall'
-[19:49:44] [Server thread/WARN]: Lastsamurai moved too quickly! -16.7787244291585,0.14692871074848313,7.280129441873214
-[19:50:27] [Server thread/WARN]: Lastsamurai moved too quickly! -1.725320170334271,-0.7469824947366419,18.26750548040809
-[19:52:57] [Server thread/WARN]: Lastsamurai moved too quickly! 18.345061870683367,-0.39504267348934263,-1.0360696362795352
-[19:54:05] [Server thread/WARN]: Lastsamurai moved too quickly! 8.113536172473687,-2.353900786948742,16.157189151849707
-[19:55:39] [Server thread/INFO]: Villager cuf['Villager'/76108, l='ServerLevel[world]', x=2858.72, y=63.00, z=7335.63] died, message: 'Villager suffocated in a wall'
-[20:01:55] [Server thread/WARN]: Lastsamurai moved too quickly! -11.009892492641484,3.4553518251291138,14.937694265254322
-[20:02:14] [Server thread/INFO]: Lastsamurai lost connection: Timed out
-[20:02:14] [Server thread/INFO]: Lastsamurai left the game
-[20:02:14] [Server thread/WARN]: handleDisconnection() called twice
-[20:02:35] [Server thread/INFO]: Lastsamurai[/100.86.153.58:62810] logged in with entity id 80915 at (1780.8158798686713, 122.2798699661144, 8333.001605638065)
-[20:02:35] [Server thread/INFO]: Lastsamurai joined the game
-[20:05:14] [Server thread/WARN]: Lastsamurai moved too quickly! -13.460634579238047,-2.407782453419415,11.527191146979021
-[20:12:21] [Server thread/INFO]: Lastsamurai lost connection: Timed out
-[20:12:21] [Server thread/INFO]: Lastsamurai left the game
-[20:12:45] [Server thread/INFO]: Lastsamurai[/100.86.153.58:62978] logged in with entity id 90017 at (337.1911842433969, 68.0, 8045.058835136)
-[20:12:45] [Server thread/INFO]: Lastsamurai joined the game
-[20:14:58] [Server thread/INFO]: Lastsamurai lost connection: Disconnected
-[20:14:58] [Server thread/INFO]: Lastsamurai left the game
+[03:38:32] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:38:33] [ServerMain/INFO]: Loaded 1407 recipes
+[03:38:33] [ServerMain/INFO]: Loaded 1520 advancements
+[03:38:34] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[03:38:34] [Server thread/INFO]: Loading properties
+[03:38:34] [Server thread/INFO]: Default game type: SURVIVAL
+[03:38:34] [Server thread/INFO]: Generating keypair
+[03:38:34] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:38:34] [Server thread/INFO]: Using epoll channel type
+[03:38:34] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:38:34] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:38:34] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:38:34] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:38:34] [Server thread/INFO]: Preparing level "world"
+[03:38:34] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:38:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:38:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:38:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:38:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:38:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:38:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:38:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:38:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:38:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:38:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:38:39] [Worker-Main-2/INFO]: Preparing spawn area: 10%
+[03:38:40] [Worker-Main-3/INFO]: Preparing spawn area: 61%
+[03:38:40] [Server thread/INFO]: Time elapsed: 5687 ms
+[03:38:40] [Server thread/INFO]: Done (6.057s)! For help, type "help"
+[03:41:33] [Server thread/INFO]: Lastsamurai[/100.86.153.58:63773] logged in with entity id 12 at (347.9916174027765, 68.0, 8045.55292860776)
+[03:41:33] [Server thread/INFO]: Lastsamurai joined the game
