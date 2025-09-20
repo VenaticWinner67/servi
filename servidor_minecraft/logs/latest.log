@@ -33,3 +33,6 @@
 [16:36:36] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-830, y=71, z=-1060} jb{x=-830, y=71, z=-1061}
 [16:36:36] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-830, y=71, z=-1060} jb{x=-830, y=70, z=-1060}
 [17:19:08] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-779, y=64, z=-1096} jb{x=-768, y=64, z=-1095}
+[17:36:53] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[17:36:53] [Server thread/INFO]: lit<--[HERE]
+[17:36:57] [Server thread/INFO]: There are 1 of a max of 20 players online: Lastsamurai
