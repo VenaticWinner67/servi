@@ -1,38 +1,28 @@
-[14:46:27] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[14:46:29] [ServerMain/INFO]: Loaded 1407 recipes
-[14:46:29] [ServerMain/INFO]: Loaded 1520 advancements
-[14:46:29] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[14:46:29] [Server thread/INFO]: Loading properties
-[14:46:29] [Server thread/INFO]: Default game type: SURVIVAL
-[14:46:29] [Server thread/INFO]: Generating keypair
-[14:46:30] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:46:30] [Server thread/INFO]: Using epoll channel type
-[14:46:30] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14:46:30] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[14:46:30] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14:46:30] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[14:46:30] [Server thread/INFO]: Preparing level "world"
-[14:46:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:46:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:46:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:46:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:46:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:46:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:46:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:46:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:46:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:46:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:46:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:46:35] [Worker-Main-2/INFO]: Preparing spawn area: 14%
-[14:46:35] [Worker-Main-1/INFO]: Preparing spawn area: 61%
-[14:46:36] [Server thread/INFO]: Time elapsed: 5719 ms
-[14:46:36] [Server thread/INFO]: Done (6.007s)! For help, type "help"
-[14:46:40] [Server thread/INFO]: Lastsamurai[/100.86.153.58:61621] logged in with entity id 12 at (-856.3000000119209, 183.0, -711.4287327732674)
-[14:46:40] [Server thread/INFO]: Lastsamurai joined the game
-[16:26:23] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-766, y=64, z=-1101} jb{x=-766, y=65, z=-1102}
-[16:36:36] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-830, y=71, z=-1060} jb{x=-830, y=71, z=-1061}
-[16:36:36] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-830, y=71, z=-1060} jb{x=-830, y=70, z=-1060}
-[17:19:08] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-779, y=64, z=-1096} jb{x=-768, y=64, z=-1095}
-[17:36:53] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[17:36:53] [Server thread/INFO]: lit<--[HERE]
-[17:36:57] [Server thread/INFO]: There are 1 of a max of 20 players online: Lastsamurai
+[22:35:30] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:35:33] [ServerMain/INFO]: Loaded 1407 recipes
+[22:35:33] [ServerMain/INFO]: Loaded 1520 advancements
+[22:35:33] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[22:35:33] [Server thread/INFO]: Loading properties
+[22:35:33] [Server thread/INFO]: Default game type: SURVIVAL
+[22:35:33] [Server thread/INFO]: Generating keypair
+[22:35:33] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:35:33] [Server thread/INFO]: Using epoll channel type
+[22:35:33] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:35:33] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:35:33] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:35:33] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:35:33] [Server thread/INFO]: Preparing level "world"
+[22:35:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:35:37] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:35:37] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:35:37] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:35:37] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:35:37] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:35:37] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:35:37] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:35:37] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:35:37] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[22:35:38] [Worker-Main-3/INFO]: Preparing spawn area: 24%
+[22:35:38] [Worker-Main-2/INFO]: Preparing spawn area: 73%
+[22:35:39] [Server thread/INFO]: Time elapsed: 5086 ms
+[22:35:39] [Server thread/INFO]: Done (5.403s)! For help, type "help"
