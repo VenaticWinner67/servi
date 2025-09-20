@@ -29,3 +29,4 @@
 [14:46:36] [Server thread/INFO]: Done (6.007s)! For help, type "help"
 [14:46:40] [Server thread/INFO]: Lastsamurai[/100.86.153.58:61621] logged in with entity id 12 at (-856.3000000119209, 183.0, -711.4287327732674)
 [14:46:40] [Server thread/INFO]: Lastsamurai joined the game
+[16:26:23] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-766, y=64, z=-1101} jb{x=-766, y=65, z=-1102}
