@@ -58,3 +58,8 @@
 [18:18:36] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-906, y=82, z=-1000} jb{x=-906, y=81, z=-1001}
 [18:18:37] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-906, y=82, z=-1000} jb{x=-906, y=81, z=-1001}
 [18:18:37] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-906, y=82, z=-1000} jb{x=-906, y=81, z=-1001}
+[18:19:41] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-904, y=82, z=-997} jb{x=-903, y=82, z=-998}
+[18:30:11] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-923, y=80, z=-999} jb{x=-923, y=80, z=-996}
+[18:30:19] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-918, y=79, z=-993} jb{x=-919, y=79, z=-992}
+[18:30:44] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-941, y=83, z=-1003} jb{x=-942, y=83, z=-1004}
+[18:30:50] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-942, y=80, z=-1001} jb{x=-942, y=78, z=-1001}
