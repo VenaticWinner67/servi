@@ -1,2 +1,29 @@
-[01:08:14] [Server thread/INFO]: Lastsamurai lost connection: Disconnected
-[01:08:14] [Server thread/INFO]: Lastsamurai left the game
+[17:48:15] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:48:17] [ServerMain/INFO]: Loaded 1407 recipes
+[17:48:17] [ServerMain/INFO]: Loaded 1520 advancements
+[17:48:17] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[17:48:17] [Server thread/INFO]: Loading properties
+[17:48:17] [Server thread/INFO]: Default game type: SURVIVAL
+[17:48:17] [Server thread/INFO]: Generating keypair
+[17:48:17] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:48:17] [Server thread/INFO]: Using epoll channel type
+[17:48:17] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:48:17] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:48:17] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:48:17] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:48:17] [Server thread/INFO]: Preparing level "world"
+[17:48:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:48:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:48:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:48:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:48:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:48:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:48:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:48:20] [Server thread/INFO]: Time elapsed: 2878 ms
+[17:48:20] [Server thread/INFO]: Done (3.286s)! For help, type "help"
+[17:52:20] [Server thread/INFO]: VenaticWinner67[/100.76.188.73:51072] logged in with entity id 12 at (-932.2769422683781, 83.0, -1060.1971671981155)
+[17:52:20] [Server thread/INFO]: VenaticWinner67 joined the game
+[17:53:15] [Server thread/WARN]: VenaticWinner67 moved too quickly! 17.849691311171227,-2.444879164478806,-3.3881931401135716
+[17:55:57] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-929, y=85, z=-1053} jb{x=-931, y=82, z=-1055}
+[17:56:09] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-928, y=83, z=-1068} jb{x=-928, y=82, z=-1068}
+[17:56:09] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-928, y=83, z=-1068} jb{x=-928, y=82, z=-1068}
