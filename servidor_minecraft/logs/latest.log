@@ -78,3 +78,6 @@
 [19:57:16] [Server thread/INFO]: [VenaticWinner67: Set own game mode to Creative Mode]
 [19:57:22] [Server thread/INFO]: [VenaticWinner67: Set own game mode to Spectator Mode]
 [19:57:57] [Server thread/INFO]: [VenaticWinner67: Set own game mode to Survival Mode]
+[20:43:01] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-881, y=78, z=-996} jb{x=-881, y=78, z=-995}
+[20:43:01] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-883, y=78, z=-995} jb{x=-882, y=78, z=-995}
+[20:43:01] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-884, y=78, z=-996} jb{x=-882, y=78, z=-995}
