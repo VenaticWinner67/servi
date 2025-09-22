@@ -27,3 +27,11 @@
 [17:55:57] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-929, y=85, z=-1053} jb{x=-931, y=82, z=-1055}
 [17:56:09] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-928, y=83, z=-1068} jb{x=-928, y=82, z=-1068}
 [17:56:09] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-928, y=83, z=-1068} jb{x=-928, y=82, z=-1068}
+[17:58:22] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-920, y=80, z=-1046} jb{x=-919, y=79, z=-1046}
+[17:58:48] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-920, y=80, z=-1045} jb{x=-919, y=80, z=-1044}
+[17:58:48] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-920, y=80, z=-1045} jb{x=-919, y=80, z=-1044}
+[17:59:27] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-909, y=78, z=-1032} jb{x=-908, y=81, z=-1031}
+[18:02:03] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-941, y=83, z=-1024} jb{x=-940, y=83, z=-1023}
+[18:02:03] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-941, y=83, z=-1024} jb{x=-940, y=83, z=-1023}
+[18:02:37] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-957, y=80, z=-986} jb{x=-955, y=80, z=-988}
+[18:04:13] [Server thread/WARN]: VenaticWinner67 moved too quickly! 9.403822322532164,0.0384724126678293,-15.127845690234608
