@@ -48,3 +48,6 @@
 [22:03:33] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-588, y=18, z=-250} jb{x=-590, y=17, z=-250}
 [22:04:13] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-589, y=17, z=-247} jb{x=-589, y=15, z=-246}
 [22:06:10] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-622, y=14, z=-233} jb{x=-622, y=12, z=-233}
+[22:07:10] [Server thread/INFO]: There are 1 of a max of 20 players online: Lastsamurai
+[22:11:49] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-667, y=41, z=-218} jb{x=-667, y=41, z=-220}
+[22:12:50] [Server thread/INFO]: Lastsamurai has completed the challenge [Hot Tourist Destinations]
