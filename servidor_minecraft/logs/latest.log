@@ -1,85 +1,28 @@
-[17:48:15] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:48:17] [ServerMain/INFO]: Loaded 1407 recipes
-[17:48:17] [ServerMain/INFO]: Loaded 1520 advancements
-[17:48:17] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[17:48:17] [Server thread/INFO]: Loading properties
-[17:48:17] [Server thread/INFO]: Default game type: SURVIVAL
-[17:48:17] [Server thread/INFO]: Generating keypair
-[17:48:17] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:48:17] [Server thread/INFO]: Using epoll channel type
-[17:48:17] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:48:17] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:48:17] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:48:17] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:48:17] [Server thread/INFO]: Preparing level "world"
-[17:48:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:48:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[17:48:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[17:48:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[17:48:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[17:48:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[17:48:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[17:48:20] [Server thread/INFO]: Time elapsed: 2878 ms
-[17:48:20] [Server thread/INFO]: Done (3.286s)! For help, type "help"
-[17:52:20] [Server thread/INFO]: VenaticWinner67[/100.76.188.73:51072] logged in with entity id 12 at (-932.2769422683781, 83.0, -1060.1971671981155)
-[17:52:20] [Server thread/INFO]: VenaticWinner67 joined the game
-[17:53:15] [Server thread/WARN]: VenaticWinner67 moved too quickly! 17.849691311171227,-2.444879164478806,-3.3881931401135716
-[17:55:57] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-929, y=85, z=-1053} jb{x=-931, y=82, z=-1055}
-[17:56:09] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-928, y=83, z=-1068} jb{x=-928, y=82, z=-1068}
-[17:56:09] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-928, y=83, z=-1068} jb{x=-928, y=82, z=-1068}
-[17:58:22] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-920, y=80, z=-1046} jb{x=-919, y=79, z=-1046}
-[17:58:48] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-920, y=80, z=-1045} jb{x=-919, y=80, z=-1044}
-[17:58:48] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-920, y=80, z=-1045} jb{x=-919, y=80, z=-1044}
-[17:59:27] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-909, y=78, z=-1032} jb{x=-908, y=81, z=-1031}
-[18:02:03] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-941, y=83, z=-1024} jb{x=-940, y=83, z=-1023}
-[18:02:03] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-941, y=83, z=-1024} jb{x=-940, y=83, z=-1023}
-[18:02:37] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-957, y=80, z=-986} jb{x=-955, y=80, z=-988}
-[18:04:13] [Server thread/WARN]: VenaticWinner67 moved too quickly! 9.403822322532164,0.0384724126678293,-15.127845690234608
-[18:11:02] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-922, y=81, z=-1030} jb{x=-922, y=81, z=-1031}
-[18:11:02] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-922, y=81, z=-1030} jb{x=-922, y=81, z=-1031}
-[18:11:02] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-921, y=82, z=-1029} jb{x=-921, y=81, z=-1030}
-[18:11:27] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-916, y=81, z=-1020} jb{x=-917, y=81, z=-1019}
-[18:11:27] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-916, y=81, z=-1020} jb{x=-917, y=81, z=-1019}
-[18:11:27] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-916, y=81, z=-1020} jb{x=-917, y=81, z=-1019}
-[18:11:50] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-909, y=81, z=-1017} jb{x=-908, y=81, z=-1016}
-[18:11:50] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-909, y=81, z=-1017} jb{x=-908, y=81, z=-1016}
-[18:13:37] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-947, y=84, z=-994} jb{x=-944, y=82, z=-993}
-[18:16:33] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-927, y=87, z=-1002} jb{x=-925, y=83, z=-1003}
-[18:16:33] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-927, y=87, z=-1002} jb{x=-925, y=83, z=-1003}
-[18:16:33] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-927, y=87, z=-1002} jb{x=-925, y=83, z=-1003}
-[18:16:33] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-927, y=87, z=-1002} jb{x=-925, y=83, z=-1003}
-[18:16:33] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-926, y=87, z=-1004} jb{x=-925, y=83, z=-1003}
-[18:16:46] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-917, y=83, z=-1011} jb{x=-918, y=83, z=-1013}
-[18:16:46] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-917, y=83, z=-1011} jb{x=-918, y=83, z=-1013}
-[18:16:46] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-917, y=83, z=-1011} jb{x=-918, y=83, z=-1013}
-[18:16:46] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-917, y=83, z=-1011} jb{x=-918, y=83, z=-1013}
-[18:18:13] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-915, y=82, z=-1007} jb{x=-914, y=82, z=-1008}
-[18:18:13] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-915, y=82, z=-1007} jb{x=-914, y=82, z=-1008}
-[18:18:36] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-906, y=82, z=-1000} jb{x=-906, y=81, z=-1001}
-[18:18:37] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-906, y=82, z=-1000} jb{x=-906, y=81, z=-1001}
-[18:18:37] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-906, y=82, z=-1000} jb{x=-906, y=81, z=-1001}
-[18:19:41] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-904, y=82, z=-997} jb{x=-903, y=82, z=-998}
-[18:30:11] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-923, y=80, z=-999} jb{x=-923, y=80, z=-996}
-[18:30:19] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-918, y=79, z=-993} jb{x=-919, y=79, z=-992}
-[18:30:44] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-941, y=83, z=-1003} jb{x=-942, y=83, z=-1004}
-[18:30:50] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-942, y=80, z=-1001} jb{x=-942, y=78, z=-1001}
-[18:48:49] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-921, y=82, z=-1011} jb{x=-920, y=82, z=-1012}
-[18:48:49] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-921, y=82, z=-1011} jb{x=-920, y=82, z=-1012}
-[18:49:26] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-940, y=81, z=-1008} jb{x=-940, y=80, z=-1007}
-[18:49:26] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-940, y=81, z=-1008} jb{x=-940, y=80, z=-1007}
-[18:49:26] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-940, y=81, z=-1008} jb{x=-940, y=80, z=-1007}
-[18:57:42] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-932, y=76, z=-1019} jb{x=-933, y=75, z=-1019}
-[19:13:35] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-930, y=82, z=-1028} jb{x=-929, y=82, z=-1028}
-[19:13:35] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-930, y=82, z=-1028} jb{x=-929, y=82, z=-1028}
-[19:13:35] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-930, y=82, z=-1028} jb{x=-929, y=82, z=-1028}
-[19:13:35] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-930, y=82, z=-1028} jb{x=-929, y=82, z=-1028}
-[19:13:35] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-930, y=82, z=-1028} jb{x=-929, y=82, z=-1028}
-[19:13:35] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-930, y=82, z=-1028} jb{x=-929, y=82, z=-1028}
-[19:57:16] [Server thread/INFO]: [VenaticWinner67: Set own game mode to Creative Mode]
-[19:57:22] [Server thread/INFO]: [VenaticWinner67: Set own game mode to Spectator Mode]
-[19:57:57] [Server thread/INFO]: [VenaticWinner67: Set own game mode to Survival Mode]
-[20:43:01] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-881, y=78, z=-996} jb{x=-881, y=78, z=-995}
-[20:43:01] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-883, y=78, z=-995} jb{x=-882, y=78, z=-995}
-[20:43:01] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-884, y=78, z=-996} jb{x=-882, y=78, z=-995}
-[20:57:01] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-916, y=78, z=-1059} jb{x=-914, y=78, z=-1057}
-[20:57:01] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-916, y=78, z=-1060} jb{x=-914, y=78, z=-1057}
+[19:04:33] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:04:35] [ServerMain/INFO]: Loaded 1407 recipes
+[19:04:35] [ServerMain/INFO]: Loaded 1520 advancements
+[19:04:35] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[19:04:35] [Server thread/INFO]: Loading properties
+[19:04:35] [Server thread/INFO]: Default game type: SURVIVAL
+[19:04:35] [Server thread/INFO]: Generating keypair
+[19:04:35] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:04:35] [Server thread/INFO]: Using epoll channel type
+[19:04:35] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:04:35] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:04:35] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:04:35] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:04:35] [Server thread/INFO]: Preparing level "world"
+[19:04:35] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:04:39] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:04:39] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:04:39] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:04:39] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:04:39] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:04:39] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:04:39] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:04:39] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:04:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:04:39] [Server thread/INFO]: Time elapsed: 4115 ms
+[19:04:39] [Server thread/INFO]: Done (4.429s)! For help, type "help"
+[19:06:59] [Server thread/INFO]: Lastsamurai[/100.86.153.58:54231] logged in with entity id 12 at (-768.7195500741617, 65.0, -1080.300000011921)
+[19:06:59] [Server thread/INFO]: Lastsamurai joined the game
