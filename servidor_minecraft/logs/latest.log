@@ -35,3 +35,16 @@
 [21:22:02] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1818, y=2, z=-754} jb{x=-1818, y=1, z=-753}
 [21:22:03] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1818, y=2, z=-754} jb{x=-1818, y=2, z=-752}
 [21:24:25] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1822, y=-14, z=-770} jb{x=-1822, y=-16, z=-770}
+[21:58:30] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-514, y=22, z=-252} jb{x=-514, y=24, z=-251}
+[22:00:12] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-524, y=13, z=-254} jb{x=-525, y=12, z=-254}
+[22:00:13] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-525, y=14, z=-254} jb{x=-524, y=11, z=-254}
+[22:01:50] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-549, y=21, z=-270} jb{x=-550, y=20, z=-270}
+[22:01:50] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-549, y=21, z=-270} jb{x=-550, y=20, z=-270}
+[22:01:50] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-549, y=21, z=-270} jb{x=-550, y=20, z=-270}
+[22:01:50] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-549, y=21, z=-270} jb{x=-550, y=20, z=-270}
+[22:03:18] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-586, y=21, z=-253} jb{x=-586, y=19, z=-252}
+[22:03:18] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-586, y=21, z=-253} jb{x=-586, y=19, z=-252}
+[22:03:33] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-588, y=18, z=-250} jb{x=-590, y=17, z=-250}
+[22:03:33] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-588, y=18, z=-250} jb{x=-590, y=17, z=-250}
+[22:04:13] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-589, y=17, z=-247} jb{x=-589, y=15, z=-246}
+[22:06:10] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-622, y=14, z=-233} jb{x=-622, y=12, z=-233}
