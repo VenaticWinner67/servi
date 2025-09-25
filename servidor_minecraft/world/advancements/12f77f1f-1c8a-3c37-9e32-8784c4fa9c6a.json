@@ -4680,6 +4680,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/resin_bricks": {
+    "criteria": {
+      "has_resin_brick": "2025-09-25 22:30:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/quartz_from_blasting": {
     "criteria": {
       "has_nether_quartz_ore": "2025-09-25 22:07:50 +0000"
