@@ -31,3 +31,7 @@
 [19:53:36] [Server thread/INFO]: Villager cuf['Fletcher'/3525, l='ServerLevel[world]', x=-768.57, y=87.19, z=-1017.09] died, message: 'Fletcher was slain by Zombie'
 [20:03:19] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-771, y=103, z=-1007} jb{x=-771, y=100, z=-1007}
 [20:11:30] [Server thread/INFO]: [Not Secure] [Server] marica
+[21:22:02] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1818, y=2, z=-754} jb{x=-1818, y=1, z=-753}
+[21:22:02] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1818, y=2, z=-754} jb{x=-1818, y=1, z=-753}
+[21:22:03] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1818, y=2, z=-754} jb{x=-1818, y=2, z=-752}
+[21:24:25] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1822, y=-14, z=-770} jb{x=-1822, y=-16, z=-770}
