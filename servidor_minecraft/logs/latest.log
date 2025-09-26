@@ -27,3 +27,12 @@
 [19:44:47] [Server thread/INFO]: Done (4.855s)! For help, type "help"
 [19:46:29] [Server thread/INFO]: Lastsamurai[/100.86.153.58:49307] logged in with entity id 12 at (-771.4875000119209, 88.0, -1007.862888587309)
 [19:46:29] [Server thread/INFO]: Lastsamurai joined the game
+[20:07:36] [Server thread/INFO]: Villager cuf['Cartographer'/119, l='ServerLevel[world]', x=-822.02, y=76.00, z=-1026.46] died, message: 'Cartographer was slain by Zombie'
+[20:07:44] [Server thread/INFO]: Villager cuf['Cartographer'/110, l='ServerLevel[world]', x=-821.48, y=75.92, z=-1025.31] died, message: 'Cartographer was slain by Zombie'
+[20:07:50] [Server thread/INFO]: Villager cuf['Toolsmith'/118, l='ServerLevel[world]', x=-826.12, y=75.00, z=-1020.49] died, message: 'Toolsmith was slain by Zombie'
+[20:07:51] [Server thread/INFO]: Villager cuf['Toolsmith'/116, l='ServerLevel[world]', x=-821.53, y=76.00, z=-1026.39] died, message: 'Toolsmith was slain by Zombie Villager'
+[20:07:53] [Server thread/INFO]: Villager cuf['Toolsmith'/122, l='ServerLevel[world]', x=-822.37, y=75.79, z=-1020.31] died, message: 'Toolsmith was slain by Zombie'
+[20:07:55] [Server thread/INFO]: Villager cuf['Toolsmith'/120, l='ServerLevel[world]', x=-826.30, y=76.00, z=-1026.28] died, message: 'Toolsmith was slain by Zombie'
+[20:07:56] [Server thread/INFO]: Villager cuf['Villager'/108, l='ServerLevel[world]', x=-825.11, y=75.00, z=-1025.51] died, message: 'Villager was slain by Zombie'
+[20:08:02] [Server thread/INFO]: Villager cuf['Toolsmith'/121, l='ServerLevel[world]', x=-826.49, y=75.00, z=-1022.59] died, message: 'Toolsmith was slain by Zombie'
+[20:08:02] [Server thread/INFO]: Villager cuf['Toolsmith'/111, l='ServerLevel[world]', x=-821.50, y=75.00, z=-1024.76] died, message: 'Toolsmith was slain by Zombie Villager'
