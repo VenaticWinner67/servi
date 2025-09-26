@@ -3,3 +3,15 @@
 [00:45:19] [Server thread/INFO]: VenaticWinner67 joined the game
 [00:48:12] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-888, y=78, z=-958} jb{x=-876, y=79, z=-983}
 [00:48:16] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-888, y=78, z=-958} jb{x=-879, y=79, z=-984}
+[00:49:10] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-888, y=78, z=-958} jb{x=-871, y=79, z=-991}
+[00:52:41] [Server thread/INFO]: [Not Secure] <VenaticWinner67> zzzzzzzzzzzzzzzzzzzzz
+[00:52:50] [Server thread/INFO]: Lastsamurai lost connection: Disconnected
+[00:52:50] [Server thread/INFO]: Lastsamurai left the game
+[00:53:00] [Server thread/INFO]: Lastsamurai[/100.86.153.58:55997] logged in with entity id 77688 at (-927.6999999880791, -7.625, -986.5450720015716)
+[00:53:00] [Server thread/INFO]: Lastsamurai joined the game
+[00:53:45] [Server thread/INFO]: VenaticWinner67 lost connection: Disconnected
+[00:53:45] [Server thread/INFO]: VenaticWinner67 left the game
+[00:53:48] [Server thread/INFO]: VenaticWinner67[/100.76.188.73:57322] logged in with entity id 77935 at (-879.8296376138401, 79.0, -1006.8181991193198)
+[00:53:48] [Server thread/INFO]: VenaticWinner67 joined the game
+[00:57:28] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-903, y=78, z=-996} jb{x=-904, y=79, z=-1027}
+[00:58:42] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-903, y=78, z=-996} jb{x=-905, y=79, z=-993}
