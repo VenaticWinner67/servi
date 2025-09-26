@@ -1,96 +1,29 @@
-[00:01:02] [Server thread/WARN]: Lastsamurai moved too quickly! 0.008942802092974489,-18.366480221062815,-0.04209843929595536
-[00:45:19] [Server thread/INFO]: VenaticWinner67[/100.76.188.73:57278] logged in with entity id 74958 at (-898.2275594908259, 79.0, -980.1410597920685)
-[00:45:19] [Server thread/INFO]: VenaticWinner67 joined the game
-[00:48:12] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-888, y=78, z=-958} jb{x=-876, y=79, z=-983}
-[00:48:16] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-888, y=78, z=-958} jb{x=-879, y=79, z=-984}
-[00:49:10] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-888, y=78, z=-958} jb{x=-871, y=79, z=-991}
-[00:52:41] [Server thread/INFO]: [Not Secure] <VenaticWinner67> zzzzzzzzzzzzzzzzzzzzz
-[00:52:50] [Server thread/INFO]: Lastsamurai lost connection: Disconnected
-[00:52:50] [Server thread/INFO]: Lastsamurai left the game
-[00:53:00] [Server thread/INFO]: Lastsamurai[/100.86.153.58:55997] logged in with entity id 77688 at (-927.6999999880791, -7.625, -986.5450720015716)
-[00:53:00] [Server thread/INFO]: Lastsamurai joined the game
-[00:53:45] [Server thread/INFO]: VenaticWinner67 lost connection: Disconnected
-[00:53:45] [Server thread/INFO]: VenaticWinner67 left the game
-[00:53:48] [Server thread/INFO]: VenaticWinner67[/100.76.188.73:57322] logged in with entity id 77935 at (-879.8296376138401, 79.0, -1006.8181991193198)
-[00:53:48] [Server thread/INFO]: VenaticWinner67 joined the game
-[00:57:28] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-903, y=78, z=-996} jb{x=-904, y=79, z=-1027}
-[00:58:42] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-903, y=78, z=-996} jb{x=-905, y=79, z=-993}
-[00:59:11] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-906, y=79, z=-994} jb{x=-904, y=79, z=-1026}
-[01:00:11] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-906, y=79, z=-994} jb{x=-908, y=79, z=-1005}
-[01:01:12] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-908, y=79, z=-993} jb{x=-912, y=79, z=-1012}
-[01:02:03] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-908, y=79, z=-993} jb{x=-929, y=78, z=-992}
-[01:02:37] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-931, y=78, z=-992} jb{x=-969, y=78, z=-992}
-[01:03:30] [Server thread/INFO]: [Not Secure] <VenaticWinner67> zzz
-[01:03:31] [Server thread/INFO]: [Not Secure] <VenaticWinner67> z
-[01:03:31] [Server thread/INFO]: [Not Secure] <VenaticWinner67> z
-[01:03:32] [Server thread/INFO]: [Not Secure] <VenaticWinner67> z
-[01:03:32] [Server thread/INFO]: [Not Secure] <VenaticWinner67> z
-[01:03:32] [Server thread/INFO]: [Not Secure] <VenaticWinner67> z
-[01:03:33] [Server thread/INFO]: [Not Secure] <VenaticWinner67> z
-[01:03:36] [Server thread/INFO]: Lastsamurai lost connection: Disconnected
-[01:03:36] [Server thread/INFO]: Lastsamurai left the game
-[01:03:50] [Server thread/INFO]: Lastsamurai[/100.86.153.58:56066] logged in with entity id 80999 at (-896.4410848219916, -29.0, -919.3000000119209)
-[01:03:50] [Server thread/INFO]: Lastsamurai joined the game
-[01:04:45] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-942, y=78, z=-1013} jb{x=-939, y=79, z=-993}
-[01:07:40] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-942, y=78, z=-1013} jb{x=-967, y=78, z=-1049}
-[01:08:46] [Server thread/INFO]: [Not Secure] <VenaticWinner67> que putas?
-[01:08:57] [Server thread/INFO]: [Not Secure] <Lastsamurai> pvtas pues
-[01:09:02] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-942, y=78, z=-1013} jb{x=-931, y=78, z=-1073}
-[01:09:16] [Server thread/INFO]: [Not Secure] <VenaticWinner67> mentirita era oi
-[01:09:35] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-912, y=79, z=-1068} jb{x=-912, y=79, z=-1065}
-[01:09:41] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-912, y=79, z=-1068} jb{x=-913, y=79, z=-1061}
-[01:13:06] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-966, y=79, z=-1058} jb{x=-965, y=79, z=-1063}
-[01:16:00] [Server thread/INFO]: [Not Secure] <VenaticWinner67> zzzzzzz
-[01:17:28] [Server thread/INFO]: Lastsamurai lost connection: dormi mrd
-[01:17:28] [Server thread/INFO]: Lastsamurai left the game
-[01:17:29] [Server thread/INFO]: [VenaticWinner67: Kicked Lastsamurai: dormi mrd]
-[01:17:29] [Server thread/WARN]: handleDisconnection() called twice
-[01:17:35] [Server thread/INFO]: Lastsamurai[/100.86.153.58:56130] logged in with entity id 86434 at (-836.3334143237955, 79.0, -980.7787054495839)
-[01:17:35] [Server thread/INFO]: Lastsamurai joined the game
-[01:18:00] [Server thread/INFO]: Villager cuf['Librarian'/44699, l='ServerLevel[world]', x=-832.45, y=78.00, z=-981.50] died, message: 'Librarian was slain by | La putita |'
-[01:18:06] [Server thread/INFO]: Villager cuf['Librarian'/44709, l='ServerLevel[world]', x=-832.30, y=78.00, z=-979.50] died, message: 'Librarian was slain by | La putita |'
-[01:18:32] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-966, y=79, z=-1058} jb{x=-918, y=78, z=-1045}
-[01:18:45] [Server thread/INFO]: Villager cuf['Librarian'/44706, l='ServerLevel[world]', x=-842.70, y=78.00, z=-981.50] died, message: 'Librarian was slain by gey'
-[01:18:51] [Server thread/INFO]: Villager cuf['Librarian'/44698, l='ServerLevel[world]', x=-832.30, y=78.00, z=-983.50] died, message: 'Librarian was slain by | La putita |'
-[01:18:56] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-966, y=79, z=-1058} jb{x=-919, y=78, z=-1018}
-[01:20:04] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-966, y=79, z=-1058} jb{x=-960, y=79, z=-998}
-[01:25:56] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-966, y=79, z=-1058} jb{x=-941, y=79, z=-1071}
-[01:29:57] [Server thread/INFO]: [Not Secure] <VenaticWinner67> zzzzzzzzzz
-[01:30:00] [Server thread/INFO]: Lastsamurai lost connection: Disconnected
-[01:30:00] [Server thread/INFO]: Lastsamurai left the game
-[01:30:10] [Server thread/INFO]: Lastsamurai[/100.86.153.58:56193] logged in with entity id 92346 at (-427.6515749100951, 78.0, -769.3000000119209)
-[01:30:10] [Server thread/INFO]: Lastsamurai joined the game
-[01:34:42] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-960, y=79, z=-1037} jb{x=-925, y=78, z=-1064}
-[01:35:33] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-960, y=79, z=-1037} jb{x=-923, y=79, z=-1015}
-[01:35:46] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-921, y=79, z=-1009} jb{x=-919, y=78, z=-1010}
-[01:37:11] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-921, y=79, z=-1009} jb{x=-944, y=78, z=-1006}
-[01:37:21] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-921, y=79, z=-1009} jb{x=-954, y=78, z=-1006}
-[01:41:37] [Server thread/INFO]: [Not Secure] <VenaticWinner67> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-[01:41:41] [Server thread/INFO]: Lastsamurai lost connection: Disconnected
-[01:41:41] [Server thread/INFO]: Lastsamurai left the game
-[01:41:51] [Server thread/INFO]: Lastsamurai[/100.86.153.58:56263] logged in with entity id 98745 at (-479.594998587133, 54.0, -698.4930825050158)
-[01:41:51] [Server thread/INFO]: Lastsamurai joined the game
-[01:43:47] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-957, y=79, z=-1062} jb{x=-954, y=79, z=-1008}
-[01:46:13] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-942, y=79, z=-1059} jb{x=-931, y=79, z=-1059}
-[01:46:53] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-942, y=79, z=-1059} jb{x=-930, y=79, z=-1027}
-[01:46:53] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-942, y=79, z=-1059} jb{x=-930, y=79, z=-1027}
-[01:46:53] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-942, y=79, z=-1059} jb{x=-930, y=79, z=-1027}
-[01:49:01] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-950, y=79, z=-1034} jb{x=-950, y=79, z=-1050}
-[01:50:12] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-950, y=79, z=-1034} jb{x=-933, y=79, z=-1018}
-[01:51:43] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-944, y=79, z=-1053} jb{x=-937, y=78, z=-1036}
-[01:52:54] [Server thread/INFO]: [Not Secure] <VenaticWinner67> al fin!!!!!
-[01:52:54] [Server thread/WARN]: Lastsamurai moved too quickly! 9.147091332627724,0.0,5.463229637459108
-[01:53:19] [Server thread/INFO]: [Not Secure] <Lastsamurai> jaja
-[01:59:56] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-788, y=79, z=-1043} jb{x=-789, y=79, z=-1064}
-[02:01:30] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-788, y=79, z=-1043} jb{x=-792, y=79, z=-1058}
-[02:02:30] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-794, y=79, z=-1037} jb{x=-795, y=79, z=-1072}
-[02:02:36] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-862, y=76, z=-1063} jb{x=-863, y=75, z=-1062}
-[02:03:52] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-794, y=79, z=-1037} jb{x=-799, y=79, z=-1064}
-[02:06:30] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-794, y=79, z=-1037} jb{x=-803, y=79, z=-1047}
-[02:08:54] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-794, y=79, z=-1037} jb{x=-807, y=79, z=-1060}
-[02:09:35] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-794, y=79, z=-1037} jb{x=-809, y=79, z=-1059}
-[02:12:01] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-810, y=79, z=-1054} jb{x=-815, y=79, z=-1035}
-[02:12:48] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-810, y=79, z=-1054} jb{x=-819, y=79, z=-1043}
-[02:14:43] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-810, y=79, z=-1054} jb{x=-823, y=79, z=-1052}
-[02:16:21] [Server thread/WARN]: VenaticWinner67 moved wrongly!
-[02:18:42] [Server thread/INFO]: [Not Secure] <VenaticWinner67> que hermoso
+[19:44:39] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:44:42] [ServerMain/INFO]: Loaded 1407 recipes
+[19:44:42] [ServerMain/INFO]: Loaded 1520 advancements
+[19:44:42] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[19:44:42] [Server thread/INFO]: Loading properties
+[19:44:42] [Server thread/INFO]: Default game type: SURVIVAL
+[19:44:42] [Server thread/INFO]: Generating keypair
+[19:44:42] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:44:42] [Server thread/INFO]: Using epoll channel type
+[19:44:42] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:44:42] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:44:42] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:44:42] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:44:42] [Server thread/INFO]: Preparing level "world"
+[19:44:42] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:44:46] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:44:46] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:44:46] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:44:46] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:44:46] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:44:46] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:44:46] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:44:46] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:44:46] [Worker-Main-1/INFO]: Preparing spawn area: 24%
+[19:44:47] [Worker-Main-3/INFO]: Preparing spawn area: 89%
+[19:44:47] [Server thread/INFO]: Time elapsed: 4515 ms
+[19:44:47] [Server thread/INFO]: Done (4.855s)! For help, type "help"
+[19:46:29] [Server thread/INFO]: Lastsamurai[/100.86.153.58:49307] logged in with entity id 12 at (-771.4875000119209, 88.0, -1007.862888587309)
+[19:46:29] [Server thread/INFO]: Lastsamurai joined the game
