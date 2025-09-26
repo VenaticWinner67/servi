@@ -81,3 +81,11 @@
 [01:52:54] [Server thread/INFO]: [Not Secure] <VenaticWinner67> al fin!!!!!
 [01:52:54] [Server thread/WARN]: Lastsamurai moved too quickly! 9.147091332627724,0.0,5.463229637459108
 [01:53:19] [Server thread/INFO]: [Not Secure] <Lastsamurai> jaja
+[01:59:56] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-788, y=79, z=-1043} jb{x=-789, y=79, z=-1064}
+[02:01:30] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-788, y=79, z=-1043} jb{x=-792, y=79, z=-1058}
+[02:02:30] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-794, y=79, z=-1037} jb{x=-795, y=79, z=-1072}
+[02:02:36] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-862, y=76, z=-1063} jb{x=-863, y=75, z=-1062}
+[02:03:52] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-794, y=79, z=-1037} jb{x=-799, y=79, z=-1064}
+[02:06:30] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-794, y=79, z=-1037} jb{x=-803, y=79, z=-1047}
+[02:08:54] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-794, y=79, z=-1037} jb{x=-807, y=79, z=-1060}
+[02:09:35] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-794, y=79, z=-1037} jb{x=-809, y=79, z=-1059}
