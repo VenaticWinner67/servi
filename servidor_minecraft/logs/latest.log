@@ -53,3 +53,5 @@
 [01:18:45] [Server thread/INFO]: Villager cuf['Librarian'/44706, l='ServerLevel[world]', x=-842.70, y=78.00, z=-981.50] died, message: 'Librarian was slain by gey'
 [01:18:51] [Server thread/INFO]: Villager cuf['Librarian'/44698, l='ServerLevel[world]', x=-832.30, y=78.00, z=-983.50] died, message: 'Librarian was slain by | La putita |'
 [01:18:56] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-966, y=79, z=-1058} jb{x=-919, y=78, z=-1018}
+[01:20:04] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-966, y=79, z=-1058} jb{x=-960, y=79, z=-998}
+[01:25:56] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-966, y=79, z=-1058} jb{x=-941, y=79, z=-1071}
