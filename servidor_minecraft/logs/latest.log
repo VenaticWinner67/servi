@@ -1,1 +1,5 @@
 [00:01:02] [Server thread/WARN]: Lastsamurai moved too quickly! 0.008942802092974489,-18.366480221062815,-0.04209843929595536
+[00:45:19] [Server thread/INFO]: VenaticWinner67[/100.76.188.73:57278] logged in with entity id 74958 at (-898.2275594908259, 79.0, -980.1410597920685)
+[00:45:19] [Server thread/INFO]: VenaticWinner67 joined the game
+[00:48:12] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-888, y=78, z=-958} jb{x=-876, y=79, z=-983}
+[00:48:16] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-888, y=78, z=-958} jb{x=-879, y=79, z=-984}
